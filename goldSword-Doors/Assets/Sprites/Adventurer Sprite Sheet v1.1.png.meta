@@ -3,7 +3,143 @@ guid: 064522b67da75cd42b132fb3c0feb99b
 timeCreated: 1547141281
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Adventurer Sprite Sheet v1.1_0
+    21300002: Adventurer Sprite Sheet v1.1_1
+    21300004: Adventurer Sprite Sheet v1.1_2
+    21300006: Adventurer Sprite Sheet v1.1_3
+    21300008: Adventurer Sprite Sheet v1.1_4
+    21300010: Adventurer Sprite Sheet v1.1_5
+    21300012: Adventurer Sprite Sheet v1.1_6
+    21300014: Adventurer Sprite Sheet v1.1_7
+    21300016: Adventurer Sprite Sheet v1.1_8
+    21300018: Adventurer Sprite Sheet v1.1_9
+    21300020: Adventurer Sprite Sheet v1.1_10
+    21300022: Adventurer Sprite Sheet v1.1_11
+    21300024: Adventurer Sprite Sheet v1.1_12
+    21300026: Adventurer Sprite Sheet v1.1_13
+    21300028: Adventurer Sprite Sheet v1.1_14
+    21300030: Adventurer Sprite Sheet v1.1_15
+    21300032: Adventurer Sprite Sheet v1.1_16
+    21300034: Adventurer Sprite Sheet v1.1_17
+    21300036: Adventurer Sprite Sheet v1.1_18
+    21300038: Adventurer Sprite Sheet v1.1_19
+    21300040: Adventurer Sprite Sheet v1.1_20
+    21300042: Adventurer Sprite Sheet v1.1_21
+    21300044: Adventurer Sprite Sheet v1.1_22
+    21300046: Adventurer Sprite Sheet v1.1_23
+    21300048: Adventurer Sprite Sheet v1.1_24
+    21300050: Adventurer Sprite Sheet v1.1_25
+    21300052: Adventurer Sprite Sheet v1.1_26
+    21300054: Adventurer Sprite Sheet v1.1_27
+    21300056: Adventurer Sprite Sheet v1.1_28
+    21300058: Adventurer Sprite Sheet v1.1_29
+    21300060: Adventurer Sprite Sheet v1.1_30
+    21300062: Adventurer Sprite Sheet v1.1_31
+    21300064: Adventurer Sprite Sheet v1.1_32
+    21300066: Adventurer Sprite Sheet v1.1_33
+    21300068: Adventurer Sprite Sheet v1.1_34
+    21300070: Adventurer Sprite Sheet v1.1_35
+    21300072: Adventurer Sprite Sheet v1.1_36
+    21300074: Adventurer Sprite Sheet v1.1_37
+    21300076: Adventurer Sprite Sheet v1.1_38
+    21300078: Adventurer Sprite Sheet v1.1_39
+    21300080: Adventurer Sprite Sheet v1.1_40
+    21300082: Adventurer Sprite Sheet v1.1_41
+    21300084: Adventurer Sprite Sheet v1.1_42
+    21300086: Adventurer Sprite Sheet v1.1_43
+    21300088: Adventurer Sprite Sheet v1.1_44
+    21300090: Adventurer Sprite Sheet v1.1_45
+    21300092: Adventurer Sprite Sheet v1.1_46
+    21300094: Adventurer Sprite Sheet v1.1_47
+    21300096: Adventurer Sprite Sheet v1.1_48
+    21300098: Adventurer Sprite Sheet v1.1_49
+    21300100: Adventurer Sprite Sheet v1.1_50
+    21300102: Adventurer Sprite Sheet v1.1_51
+    21300104: Adventurer Sprite Sheet v1.1_52
+    21300106: Adventurer Sprite Sheet v1.1_53
+    21300108: Adventurer Sprite Sheet v1.1_54
+    21300110: Adventurer Sprite Sheet v1.1_55
+    21300112: Adventurer Sprite Sheet v1.1_56
+    21300114: Adventurer Sprite Sheet v1.1_57
+    21300116: Adventurer Sprite Sheet v1.1_58
+    21300118: Adventurer Sprite Sheet v1.1_59
+    21300120: Adventurer Sprite Sheet v1.1_60
+    21300122: Adventurer Sprite Sheet v1.1_61
+    21300124: Adventurer Sprite Sheet v1.1_62
+    21300126: Adventurer Sprite Sheet v1.1_63
+    21300128: Adventurer Sprite Sheet v1.1_64
+    21300130: Adventurer Sprite Sheet v1.1_65
+    21300132: Adventurer Sprite Sheet v1.1_66
+    21300134: Adventurer Sprite Sheet v1.1_67
+    21300136: Adventurer Sprite Sheet v1.1_68
+    21300138: Adventurer Sprite Sheet v1.1_69
+    21300140: Adventurer Sprite Sheet v1.1_70
+    21300142: Adventurer Sprite Sheet v1.1_71
+    21300144: Adventurer Sprite Sheet v1.1_72
+    21300146: Adventurer Sprite Sheet v1.1_73
+    21300148: Adventurer Sprite Sheet v1.1_74
+    21300150: Adventurer Sprite Sheet v1.1_75
+    21300152: Adventurer Sprite Sheet v1.1_76
+    21300154: Adventurer Sprite Sheet v1.1_77
+    21300156: Adventurer Sprite Sheet v1.1_78
+    21300158: Adventurer Sprite Sheet v1.1_79
+    21300160: Adventurer Sprite Sheet v1.1_80
+    21300162: Adventurer Sprite Sheet v1.1_81
+    21300164: Adventurer Sprite Sheet v1.1_82
+    21300166: Adventurer Sprite Sheet v1.1_83
+    21300168: Adventurer Sprite Sheet v1.1_84
+    21300170: Adventurer Sprite Sheet v1.1_85
+    21300172: Adventurer Sprite Sheet v1.1_86
+    21300174: Adventurer Sprite Sheet v1.1_87
+    21300176: Adventurer Sprite Sheet v1.1_88
+    21300178: Adventurer Sprite Sheet v1.1_89
+    21300180: Adventurer Sprite Sheet v1.1_90
+    21300182: Adventurer Sprite Sheet v1.1_91
+    21300184: Adventurer Sprite Sheet v1.1_92
+    21300186: Adventurer Sprite Sheet v1.1_93
+    21300188: Adventurer Sprite Sheet v1.1_94
+    21300190: Adventurer Sprite Sheet v1.1_95
+    21300192: Adventurer Sprite Sheet v1.1_96
+    21300194: Adventurer Sprite Sheet v1.1_97
+    21300196: Adventurer Sprite Sheet v1.1_98
+    21300198: Adventurer Sprite Sheet v1.1_99
+    21300200: Adventurer Sprite Sheet v1.1_100
+    21300202: Adventurer Sprite Sheet v1.1_101
+    21300204: Adventurer Sprite Sheet v1.1_102
+    21300206: Adventurer Sprite Sheet v1.1_103
+    21300208: Adventurer Sprite Sheet v1.1_104
+    21300210: Adventurer Sprite Sheet v1.1_105
+    21300212: Adventurer Sprite Sheet v1.1_106
+    21300214: Adventurer Sprite Sheet v1.1_107
+    21300216: Adventurer Sprite Sheet v1.1_108
+    21300218: Adventurer Sprite Sheet v1.1_109
+    21300220: Adventurer Sprite Sheet v1.1_110
+    21300222: Adventurer Sprite Sheet v1.1_111
+    21300224: Adventurer Sprite Sheet v1.1_112
+    21300226: Adventurer Sprite Sheet v1.1_113
+    21300228: Adventurer Sprite Sheet v1.1_114
+    21300230: Adventurer Sprite Sheet v1.1_115
+    21300232: Adventurer Sprite Sheet v1.1_116
+    21300234: Adventurer Sprite Sheet v1.1_117
+    21300236: Adventurer Sprite Sheet v1.1_118
+    21300238: Adventurer Sprite Sheet v1.1_119
+    21300240: Adventurer Sprite Sheet v1.1_120
+    21300242: Adventurer Sprite Sheet v1.1_121
+    21300244: Adventurer Sprite Sheet v1.1_122
+    21300246: Adventurer Sprite Sheet v1.1_123
+    21300248: Adventurer Sprite Sheet v1.1_124
+    21300250: Adventurer Sprite Sheet v1.1_125
+    21300252: Adventurer Sprite Sheet v1.1_126
+    21300254: Adventurer Sprite Sheet v1.1_127
+    21300256: Adventurer Sprite Sheet v1.1_128
+    21300258: Adventurer Sprite Sheet v1.1_129
+    21300260: Adventurer Sprite Sheet v1.1_130
+    21300262: Adventurer Sprite Sheet v1.1_131
+    21300264: Adventurer Sprite Sheet v1.1_132
+    21300266: Adventurer Sprite Sheet v1.1_133
+    21300268: Adventurer Sprite Sheet v1.1_134
+    21300270: Adventurer Sprite Sheet v1.1_135
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +176,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,11 +202,4482 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
-    outline: []
-    physicsShape: []
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 481
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 481
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 481
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 451
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 453
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 451
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 449
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 450
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 451
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 449
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 417
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 418
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 418
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 419
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 418
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 417
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 417
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 417
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 417
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 417
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 384
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 384
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 384
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 385
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 385
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 385
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 385
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 352
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 352
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 353
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 353
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 353
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 353
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 353
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 353
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 353
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 321
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 321
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 326
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 321
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 289
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 289
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 289
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 257
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 257
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 256
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 225
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 225
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 225
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_76
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_77
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_79
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 195
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 195
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_84
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 194
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_86
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 195
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_87
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 194
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_88
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 162
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 163
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_93
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 162
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_95
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 161
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_97
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 161
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 161
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_102
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_103
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_104
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 129
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_106
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_107
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 129
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_108
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 129
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_109
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_110
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_115
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 97
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_116
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 97
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_117
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_118
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 97
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_119
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_120
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 65
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_123
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_124
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_125
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 33
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 33
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_127
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_128
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_129
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_131
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_133
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_134
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Adventurer Sprite Sheet v1.1_135
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -200, y: -256}
+      - {x: -183, y: -256}
+      - {x: -180, y: -255}
+      - {x: -180, y: -239}
+      - {x: -183, y: -233}
+      - {x: -197, y: -233}
+      - {x: -200, y: -240}
+    - - {x: -167, y: -234}
+      - {x: -170, y: -244}
+      - {x: -170, y: -250}
+      - {x: -164, y: -256}
+      - {x: -153, y: -256}
+      - {x: -146, y: -249}
+      - {x: -146, y: -239}
+      - {x: -152, y: -234}
+    - - {x: -134, y: -235}
+      - {x: -138, y: -242}
+      - {x: -138, y: -250}
+      - {x: -133, y: -256}
+      - {x: -120, y: -256}
+      - {x: -114, y: -251}
+      - {x: -114, y: -238}
+      - {x: -121, y: -235}
+    - - {x: -99, y: -239}
+      - {x: -106, y: -242}
+      - {x: -106, y: -251}
+      - {x: -101, y: -256}
+      - {x: -87, y: -256}
+      - {x: -82, y: -250}
+      - {x: -82, y: -246}
+      - {x: -89, y: -239}
+    - - {x: -58, y: -244}
+      - {x: -70, y: -244}
+      - {x: -76, y: -246}
+      - {x: -76, y: -256}
+      - {x: -51, y: -256}
+      - {x: -51, y: -253}
+      - {x: -55, y: -247}
+    - - {x: -38, y: -243}
+      - {x: -45, y: -246}
+      - {x: -45, y: -256}
+      - {x: -21, y: -256}
+      - {x: -20, y: -254}
+      - {x: -20, y: -250}
+      - {x: -27, y: -243}
+    - - {x: 5, y: -244}
+      - {x: -7, y: -244}
+      - {x: -13, y: -246}
+      - {x: -13, y: -256}
+      - {x: 12, y: -256}
+      - {x: 12, y: -253}
+      - {x: 8, y: -247}
+    - - {x: -138, y: -242}
+      - {x: -135, y: -241}
+      - {x: -135, y: -238}
+      - {x: -138, y: -237}
+      - {x: -140, y: -239}
+    - - {x: -114, y: -240}
+      - {x: -111, y: -239}
+      - {x: -111, y: -236}
+      - {x: -114, y: -235}
+      - {x: -116, y: -237}
+    - - {x: -134, y: -237}
+      - {x: -131, y: -236}
+      - {x: -131, y: -233}
+      - {x: -134, y: -232}
+      - {x: -136, y: -234}
+    - - {x: -119, y: -236}
+      - {x: -116, y: -235}
+      - {x: -116, y: -232}
+      - {x: -119, y: -231}
+      - {x: -121, y: -233}
+    - - {x: -193, y: -201}
+      - {x: -200, y: -205}
+      - {x: -200, y: -220}
+      - {x: -194, y: -225}
+      - {x: -186, y: -225}
+      - {x: -180, y: -218}
+      - {x: -180, y: -207}
+      - {x: -183, y: -201}
+    - - {x: -169, y: -202}
+      - {x: -170, y: -204}
+      - {x: -170, y: -219}
+      - {x: -163, y: -225}
+      - {x: -154, y: -225}
+      - {x: -146, y: -219}
+      - {x: -146, y: -211}
+      - {x: -149, y: -202}
+    - - {x: -130, y: -203}
+      - {x: -138, y: -212}
+      - {x: -138, y: -219}
+      - {x: -134, y: -225}
+      - {x: -121, y: -225}
+      - {x: -114, y: -220}
+      - {x: -114, y: -214}
+      - {x: -121, y: -203}
+    - - {x: -87, y: -202}
+      - {x: -98, y: -202}
+      - {x: -105, y: -205}
+      - {x: -106, y: -211}
+      - {x: -106, y: -218}
+      - {x: -99, y: -225}
+      - {x: -90, y: -225}
+      - {x: -82, y: -219}
+      - {x: -82, y: -212}
+      - {x: -84, y: -207}
+    - - {x: -138, y: -210}
+      - {x: -135, y: -209}
+      - {x: -135, y: -206}
+      - {x: -138, y: -205}
+      - {x: -140, y: -207}
+    - - {x: -114, y: -208}
+      - {x: -111, y: -207}
+      - {x: -111, y: -204}
+      - {x: -114, y: -203}
+      - {x: -116, y: -205}
+    - - {x: -134, y: -205}
+      - {x: -131, y: -204}
+      - {x: -131, y: -201}
+      - {x: -134, y: -200}
+      - {x: -136, y: -202}
+    - - {x: -119, y: -204}
+      - {x: -116, y: -203}
+      - {x: -116, y: -200}
+      - {x: -119, y: -199}
+      - {x: -121, y: -201}
+    - - {x: -198, y: -169}
+      - {x: -200, y: -174}
+      - {x: -200, y: -189}
+      - {x: -198, y: -193}
+      - {x: -187, y: -193}
+      - {x: -180, y: -190}
+      - {x: -180, y: -172}
+      - {x: -185, y: -169}
+    - - {x: -154, y: -170}
+      - {x: -164, y: -170}
+      - {x: -167, y: -174}
+      - {x: -169, y: -186}
+      - {x: -169, y: -187}
+      - {x: -162, y: -193}
+      - {x: -150, y: -193}
+      - {x: -146, y: -190}
+      - {x: -146, y: -177}
+      - {x: -149, y: -171}
+    - - {x: -26, y: -170}
+      - {x: -36, y: -170}
+      - {x: -39, y: -174}
+      - {x: -41, y: -180}
+      - {x: -41, y: -191}
+      - {x: -37, y: -193}
+      - {x: -22, y: -193}
+      - {x: -18, y: -189}
+      - {x: -18, y: -178}
+      - {x: -21, y: -171}
+    - - {x: -120, y: -167}
+      - {x: -133, y: -167}
+      - {x: -137, y: -177}
+      - {x: -137, y: -187}
+      - {x: -131, y: -190}
+      - {x: -125, y: -191}
+      - {x: -121, y: -191}
+      - {x: -115, y: -185}
+      - {x: -115, y: -178}
+      - {x: -117, y: -169}
+    - - {x: -56, y: -165}
+      - {x: -69, y: -165}
+      - {x: -73, y: -174}
+      - {x: -73, y: -184}
+      - {x: -69, y: -189}
+      - {x: -57, y: -189}
+      - {x: -51, y: -182}
+      - {x: -51, y: -173}
+      - {x: -53, y: -166}
+    - - {x: -101, y: -165}
+      - {x: -106, y: -172}
+      - {x: -106, y: -181}
+      - {x: -101, y: -188}
+      - {x: -88, y: -188}
+      - {x: -84, y: -184}
+      - {x: -84, y: -175}
+      - {x: -89, y: -165}
+    - - {x: -198, y: -154}
+      - {x: -195, y: -162}
+      - {x: -181, y: -162}
+      - {x: -178, y: -159}
+      - {x: -178, y: -145}
+      - {x: -180, y: -139}
+      - {x: -185, y: -138}
+      - {x: -198, y: -138}
+    - - {x: -151, y: -138}
+      - {x: -162, y: -138}
+      - {x: -166, y: -140}
+      - {x: -166, y: -161}
+      - {x: -163, y: -162}
+      - {x: -151, y: -162}
+      - {x: -147, y: -157}
+      - {x: -147, y: -147}
+      - {x: -148, y: -143}
+    - - {x: -139, y: -138}
+      - {x: -146, y: -146}
+      - {x: -146, y: -156}
+      - {x: -141, y: -158}
+      - {x: -130, y: -161}
+      - {x: -119, y: -161}
+      - {x: -116, y: -158}
+      - {x: -116, y: -148}
+      - {x: -121, y: -138}
+    - - {x: -100, y: -138}
+      - {x: -114, y: -147}
+      - {x: -114, y: -155}
+      - {x: -112, y: -160}
+      - {x: -105, y: -161}
+      - {x: -84, y: -161}
+      - {x: -84, y: -148}
+      - {x: -89, y: -138}
+    - - {x: -82, y: -159}
+      - {x: -79, y: -161}
+      - {x: -55, y: -161}
+      - {x: -52, y: -159}
+      - {x: -52, y: -144}
+      - {x: -54, y: -140}
+      - {x: -57, y: -138}
+      - {x: -73, y: -138}
+      - {x: -82, y: -146}
+    - - {x: -36, y: -138}
+      - {x: -50, y: -147}
+      - {x: -50, y: -158}
+      - {x: -39, y: -161}
+      - {x: -21, y: -161}
+      - {x: -20, y: -159}
+      - {x: -20, y: -146}
+      - {x: -25, y: -138}
+    - - {x: -9, y: -137}
+      - {x: -14, y: -140}
+      - {x: -15, y: -145}
+      - {x: -15, y: -149}
+      - {x: -6, y: -160}
+      - {x: -2, y: -161}
+      - {x: 8, y: -161}
+      - {x: 12, y: -159}
+      - {x: 12, y: -144}
+      - {x: 9, y: -137}
+    - - {x: 23, y: -155}
+      - {x: 27, y: -161}
+      - {x: 37, y: -161}
+      - {x: 44, y: -159}
+      - {x: 44, y: -142}
+      - {x: 42, y: -137}
+      - {x: 28, y: -137}
+      - {x: 23, y: -145}
+    - - {x: 70, y: -137}
+      - {x: 63, y: -137}
+      - {x: 58, y: -142}
+      - {x: 57, y: -154}
+      - {x: 59, y: -158}
+      - {x: 62, y: -161}
+      - {x: 69, y: -161}
+      - {x: 76, y: -154}
+      - {x: 76, y: -151}
+      - {x: 75, y: -143}
+    - - {x: 104, y: -137}
+      - {x: 95, y: -137}
+      - {x: 88, y: -140}
+      - {x: 88, y: -156}
+      - {x: 94, y: -161}
+      - {x: 101, y: -161}
+      - {x: 108, y: -154}
+      - {x: 108, y: -151}
+      - {x: 107, y: -143}
+    - - {x: -175, y: -119}
+      - {x: -171, y: -130}
+      - {x: -147, y: -130}
+      - {x: -147, y: -118}
+      - {x: -149, y: -107}
+      - {x: -152, y: -106}
+      - {x: -170, y: -106}
+      - {x: -175, y: -108}
+    - - {x: -118, y: -107}
+      - {x: -122, y: -106}
+      - {x: -133, y: -106}
+      - {x: -140, y: -117}
+      - {x: -140, y: -121}
+      - {x: -131, y: -129}
+      - {x: -127, y: -130}
+      - {x: -120, y: -130}
+      - {x: -115, y: -123}
+      - {x: -115, y: -119}
+    - - {x: -88, y: -106}
+      - {x: -102, y: -106}
+      - {x: -103, y: -108}
+      - {x: -103, y: -125}
+      - {x: -100, y: -130}
+      - {x: -88, y: -130}
+      - {x: -83, y: -124}
+      - {x: -83, y: -119}
+      - {x: -86, y: -107}
+    - - {x: -71, y: -117}
+      - {x: -69, y: -127}
+      - {x: -65, y: -130}
+      - {x: -55, y: -130}
+      - {x: -51, y: -126}
+      - {x: -51, y: -114}
+      - {x: -54, y: -107}
+      - {x: -59, y: -106}
+      - {x: -69, y: -106}
+      - {x: -71, y: -109}
+    - - {x: -37, y: -106}
+      - {x: -39, y: -109}
+      - {x: -39, y: -117}
+      - {x: -38, y: -127}
+      - {x: -34, y: -129}
+      - {x: -30, y: -130}
+      - {x: -27, y: -130}
+      - {x: -20, y: -124}
+      - {x: -20, y: -109}
+      - {x: -27, y: -106}
+    - - {x: -185, y: -105}
+      - {x: -208, y: -105}
+      - {x: -208, y: -116}
+      - {x: -197, y: -129}
+      - {x: -184, y: -129}
+      - {x: -180, y: -125}
+      - {x: -180, y: -114}
+      - {x: -181, y: -110}
+    - - {x: -2, y: -105}
+      - {x: -16, y: -112}
+      - {x: -16, y: -116}
+      - {x: -10, y: -126}
+      - {x: -4, y: -129}
+      - {x: 9, y: -129}
+      - {x: 11, y: -126}
+      - {x: 11, y: -113}
+      - {x: 6, y: -105}
+    - - {x: 27, y: -105}
+      - {x: 22, y: -113}
+      - {x: 22, y: -127}
+      - {x: 26, y: -129}
+      - {x: 41, y: -129}
+      - {x: 43, y: -126}
+      - {x: 43, y: -113}
+      - {x: 38, y: -105}
+    - - {x: 69, y: -105}
+      - {x: 62, y: -105}
+      - {x: 57, y: -110}
+      - {x: 56, y: -122}
+      - {x: 58, y: -126}
+      - {x: 61, y: -129}
+      - {x: 68, y: -129}
+      - {x: 75, y: -122}
+      - {x: 75, y: -119}
+      - {x: 74, y: -111}
+    - - {x: 101, y: -105}
+      - {x: 94, y: -105}
+      - {x: 88, y: -110}
+      - {x: 87, y: -120}
+      - {x: 87, y: -124}
+      - {x: 93, y: -129}
+      - {x: 100, y: -129}
+      - {x: 107, y: -122}
+      - {x: 107, y: -119}
+      - {x: 106, y: -111}
+    - - {x: -186, y: -74}
+      - {x: -193, y: -74}
+      - {x: -199, y: -76}
+      - {x: -199, y: -93}
+      - {x: -198, y: -97}
+      - {x: -183, y: -97}
+      - {x: -180, y: -93}
+      - {x: -180, y: -82}
+      - {x: -181, y: -80}
+    - - {x: -48, y: -73}
+      - {x: -48, y: -84}
+      - {x: -41, y: -96}
+      - {x: -37, y: -97}
+      - {x: -21, y: -97}
+      - {x: -19, y: -93}
+      - {x: -19, y: -73}
+    - - {x: -1, y: -73}
+      - {x: -15, y: -80}
+      - {x: -15, y: -84}
+      - {x: -6, y: -97}
+      - {x: 6, y: -97}
+      - {x: 12, y: -94}
+      - {x: 12, y: -81}
+      - {x: 8, y: -73}
+    - - {x: 27, y: -73}
+      - {x: 23, y: -81}
+      - {x: 23, y: -92}
+      - {x: 26, y: -97}
+      - {x: 38, y: -97}
+      - {x: 44, y: -94}
+      - {x: 44, y: -81}
+      - {x: 40, y: -73}
+    - - {x: 58, y: -78}
+      - {x: 57, y: -90}
+      - {x: 59, y: -97}
+      - {x: 69, y: -97}
+      - {x: 76, y: -94}
+      - {x: 76, y: -82}
+      - {x: 75, y: -79}
+      - {x: 70, y: -73}
+      - {x: 63, y: -73}
+    - - {x: 102, y: -73}
+      - {x: 95, y: -73}
+      - {x: 89, y: -78}
+      - {x: 88, y: -88}
+      - {x: 88, y: -92}
+      - {x: 94, y: -97}
+      - {x: 101, y: -97}
+      - {x: 108, y: -90}
+      - {x: 108, y: -87}
+      - {x: 107, y: -79}
+    - - {x: -163, y: -73}
+      - {x: -175, y: -89}
+      - {x: -175, y: -96}
+      - {x: -151, y: -96}
+      - {x: -147, y: -93}
+      - {x: -147, y: -83}
+      - {x: -152, y: -73}
+    - - {x: -121, y: -71}
+      - {x: -137, y: -71}
+      - {x: -146, y: -77}
+      - {x: -146, y: -90}
+      - {x: -145, y: -93}
+      - {x: -143, y: -96}
+      - {x: -120, y: -96}
+      - {x: -115, y: -90}
+      - {x: -115, y: -83}
+      - {x: -117, y: -73}
+    - - {x: -81, y: -71}
+      - {x: -81, y: -84}
+      - {x: -67, y: -95}
+      - {x: -62, y: -96}
+      - {x: -56, y: -96}
+      - {x: -51, y: -90}
+      - {x: -51, y: -71}
+    - - {x: -90, y: -70}
+      - {x: -103, y: -70}
+      - {x: -114, y: -75}
+      - {x: -114, y: -85}
+      - {x: -100, y: -95}
+      - {x: -88, y: -95}
+      - {x: -83, y: -89}
+      - {x: -83, y: -82}
+      - {x: -85, y: -72}
+    - - {x: -113, y: -89}
+      - {x: -110, y: -93}
+      - {x: -107, y: -91}
+      - {x: -108, y: -87}
+      - {x: -110, y: -85}
+      - {x: -113, y: -86}
+    - - {x: -97, y: -41}
+      - {x: -103, y: -44}
+      - {x: -103, y: -64}
+      - {x: -100, y: -65}
+      - {x: -87, y: -65}
+      - {x: -85, y: -62}
+      - {x: -85, y: -45}
+      - {x: -87, y: -41}
+    - - {x: 38, y: -41}
+      - {x: 31, y: -41}
+      - {x: 26, y: -46}
+      - {x: 25, y: -58}
+      - {x: 27, y: -62}
+      - {x: 30, y: -65}
+      - {x: 40, y: -65}
+      - {x: 43, y: -59}
+      - {x: 43, y: -47}
+    - - {x: -56, y: -40}
+      - {x: -66, y: -40}
+      - {x: -70, y: -42}
+      - {x: -70, y: -61}
+      - {x: -64, y: -64}
+      - {x: -57, y: -64}
+      - {x: -54, y: -59}
+      - {x: -54, y: -44}
+    - - {x: 8, y: -40}
+      - {x: -2, y: -40}
+      - {x: -6, y: -42}
+      - {x: -6, y: -61}
+      - {x: 0, y: -64}
+      - {x: 7, y: -64}
+      - {x: 10, y: -59}
+      - {x: 10, y: -44}
+    - - {x: -186, y: -40}
+      - {x: -196, y: -40}
+      - {x: -199, y: -44}
+      - {x: -201, y: -54}
+      - {x: -201, y: -57}
+      - {x: -195, y: -63}
+      - {x: -182, y: -63}
+      - {x: -179, y: -59}
+      - {x: -179, y: -45}
+      - {x: -181, y: -42}
+    - - {x: -130, y: -40}
+      - {x: -137, y: -49}
+      - {x: -137, y: -59}
+      - {x: -136, y: -62}
+      - {x: -131, y: -63}
+      - {x: -119, y: -63}
+      - {x: -115, y: -59}
+      - {x: -115, y: -50}
+      - {x: -120, y: -40}
+    - - {x: -27, y: -39}
+      - {x: -33, y: -39}
+      - {x: -38, y: -44}
+      - {x: -38, y: -59}
+      - {x: -33, y: -63}
+      - {x: -29, y: -63}
+      - {x: -24, y: -61}
+      - {x: -22, y: -60}
+      - {x: -22, y: -42}
+    - - {x: -163, y: -39}
+      - {x: -169, y: -47}
+      - {x: -169, y: -57}
+      - {x: -167, y: -61}
+      - {x: -150, y: -61}
+      - {x: -147, y: -60}
+      - {x: -147, y: -48}
+      - {x: -153, y: -39}
+    - - {x: -186, y: -9}
+      - {x: -193, y: -9}
+      - {x: -199, y: -14}
+      - {x: -200, y: -24}
+      - {x: -200, y: -28}
+      - {x: -194, y: -33}
+      - {x: -187, y: -33}
+      - {x: -180, y: -26}
+      - {x: -180, y: -23}
+      - {x: -181, y: -15}
+    - - {x: -154, y: -8}
+      - {x: -163, y: -8}
+      - {x: -166, y: -13}
+      - {x: -170, y: -22}
+      - {x: -170, y: -28}
+      - {x: -164, y: -33}
+      - {x: -154, y: -33}
+      - {x: -147, y: -27}
+      - {x: -147, y: -20}
+      - {x: -149, y: -10}
+    - - {x: -123, y: -8}
+      - {x: -132, y: -8}
+      - {x: -137, y: -18}
+      - {x: -138, y: -21}
+      - {x: -138, y: -28}
+      - {x: -132, y: -33}
+      - {x: -122, y: -33}
+      - {x: -115, y: -27}
+      - {x: -115, y: -21}
+      - {x: -117, y: -10}
+    - - {x: -99, y: -8}
+      - {x: -103, y: -10}
+      - {x: -106, y: -19}
+      - {x: -106, y: -28}
+      - {x: -100, y: -33}
+      - {x: -90, y: -33}
+      - {x: -83, y: -29}
+      - {x: -83, y: -19}
+      - {x: -87, y: -8}
+    - - {x: -72, y: -14}
+      - {x: -72, y: -27}
+      - {x: -70, y: -33}
+      - {x: -57, y: -33}
+      - {x: -52, y: -31}
+      - {x: -52, y: -14}
+      - {x: -53, y: -13}
+      - {x: -56, y: -9}
+      - {x: -66, y: -9}
+      - {x: -71, y: -11}
+    - - {x: -40, y: -14}
+      - {x: -40, y: -27}
+      - {x: -38, y: -33}
+      - {x: -25, y: -33}
+      - {x: -20, y: -31}
+      - {x: -20, y: -14}
+      - {x: -21, y: -13}
+      - {x: -24, y: -9}
+      - {x: -34, y: -9}
+      - {x: -39, y: -11}
+    - - {x: -8, y: -14}
+      - {x: -8, y: -27}
+      - {x: -6, y: -33}
+      - {x: 7, y: -33}
+      - {x: 12, y: -31}
+      - {x: 12, y: -14}
+      - {x: 11, y: -13}
+      - {x: 8, y: -9}
+      - {x: -2, y: -9}
+      - {x: -7, y: -11}
+    - - {x: 24, y: -14}
+      - {x: 24, y: -27}
+      - {x: 26, y: -33}
+      - {x: 39, y: -33}
+      - {x: 44, y: -31}
+      - {x: 44, y: -14}
+      - {x: 43, y: -13}
+      - {x: 40, y: -9}
+      - {x: 30, y: -9}
+      - {x: 25, y: -11}
+    - - {x: 59, y: -9}
+      - {x: 56, y: -16}
+      - {x: 56, y: -29}
+      - {x: 59, y: -33}
+      - {x: 69, y: -33}
+      - {x: 76, y: -30}
+      - {x: 76, y: -12}
+      - {x: 69, y: -9}
+    - - {x: 88, y: -27}
+      - {x: 90, y: -33}
+      - {x: 106, y: -33}
+      - {x: 108, y: -32}
+      - {x: 108, y: -16}
+      - {x: 106, y: -9}
+      - {x: 92, y: -9}
+      - {x: 88, y: -15}
+    - - {x: 134, y: -9}
+      - {x: 127, y: -9}
+      - {x: 121, y: -14}
+      - {x: 120, y: -24}
+      - {x: 120, y: -28}
+      - {x: 126, y: -33}
+      - {x: 133, y: -33}
+      - {x: 140, y: -26}
+      - {x: 140, y: -23}
+      - {x: 139, y: -15}
+    - - {x: 166, y: -9}
+      - {x: 159, y: -9}
+      - {x: 153, y: -14}
+      - {x: 152, y: -24}
+      - {x: 152, y: -28}
+      - {x: 158, y: -33}
+      - {x: 165, y: -33}
+      - {x: 172, y: -26}
+      - {x: 172, y: -23}
+      - {x: 171, y: -15}
+    - - {x: 198, y: -9}
+      - {x: 191, y: -9}
+      - {x: 185, y: -14}
+      - {x: 184, y: -24}
+      - {x: 184, y: -28}
+      - {x: 190, y: -33}
+      - {x: 197, y: -33}
+      - {x: 204, y: -26}
+      - {x: 204, y: -23}
+      - {x: 203, y: -15}
+    - - {x: -57, y: 12}
+      - {x: -65, y: 12}
+      - {x: -74, y: 10}
+      - {x: -77, y: 4}
+      - {x: -77, y: 0}
+      - {x: -73, y: -2}
+      - {x: -55, y: -2}
+      - {x: -52, y: 0}
+      - {x: -52, y: 4}
+      - {x: -53, y: 8}
+    - - {x: -36, y: 13}
+      - {x: -44, y: 5}
+      - {x: -44, y: 2}
+      - {x: -41, y: -2}
+      - {x: -22, y: -2}
+      - {x: -19, y: -1}
+      - {x: -19, y: 11}
+      - {x: -26, y: 13}
+    - - {x: 8, y: 12}
+      - {x: 0, y: 12}
+      - {x: -9, y: 10}
+      - {x: -12, y: 4}
+      - {x: -12, y: 0}
+      - {x: -8, y: -2}
+      - {x: 10, y: -2}
+      - {x: 13, y: 0}
+      - {x: 13, y: 4}
+      - {x: 12, y: 8}
+    - - {x: -202, y: 23}
+      - {x: -204, y: 22}
+      - {x: -204, y: 4}
+      - {x: -202, y: -1}
+      - {x: -186, y: -1}
+      - {x: -184, y: 0}
+      - {x: -184, y: 21}
+      - {x: -191, y: 23}
+    - - {x: -170, y: 22}
+      - {x: -174, y: 19}
+      - {x: -174, y: 7}
+      - {x: -170, y: -1}
+      - {x: -156, y: -1}
+      - {x: -150, y: 5}
+      - {x: -150, y: 12}
+      - {x: -154, y: 22}
+    - - {x: -127, y: 21}
+      - {x: -138, y: 21}
+      - {x: -142, y: 12}
+      - {x: -142, y: 3}
+      - {x: -136, y: -1}
+      - {x: -122, y: -1}
+      - {x: -118, y: 5}
+      - {x: -118, y: 10}
+      - {x: -120, y: 17}
+    - - {x: -104, y: 17}
+      - {x: -110, y: 12}
+      - {x: -110, y: 2}
+      - {x: -108, y: -1}
+      - {x: -91, y: -1}
+      - {x: -86, y: 1}
+      - {x: -86, y: 15}
+      - {x: -93, y: 17}
+    - - {x: -119, y: 14}
+      - {x: -116, y: 15}
+      - {x: -116, y: 18}
+      - {x: -119, y: 19}
+      - {x: -121, y: 17}
+    - - {x: -143, y: 16}
+      - {x: -140, y: 17}
+      - {x: -140, y: 20}
+      - {x: -143, y: 21}
+      - {x: -145, y: 19}
+    - - {x: -123, y: 19}
+      - {x: -120, y: 20}
+      - {x: -120, y: 23}
+      - {x: -123, y: 24}
+      - {x: -125, y: 22}
+    - - {x: -138, y: 20}
+      - {x: -135, y: 21}
+      - {x: -135, y: 24}
+      - {x: -138, y: 25}
+      - {x: -140, y: 23}
+    - - {x: -200, y: 55}
+      - {x: -203, y: 50}
+      - {x: -204, y: 41}
+      - {x: -204, y: 37}
+      - {x: -200, y: 31}
+      - {x: -190, y: 31}
+      - {x: -184, y: 33}
+      - {x: -184, y: 53}
+      - {x: -191, y: 55}
+    - - {x: -172, y: 54}
+      - {x: -174, y: 48}
+      - {x: -174, y: 36}
+      - {x: -165, y: 31}
+      - {x: -156, y: 31}
+      - {x: -150, y: 37}
+      - {x: -150, y: 44}
+      - {x: -154, y: 54}
+    - - {x: -127, y: 53}
+      - {x: -138, y: 53}
+      - {x: -142, y: 44}
+      - {x: -142, y: 35}
+      - {x: -136, y: 31}
+      - {x: -122, y: 31}
+      - {x: -118, y: 37}
+      - {x: -118, y: 42}
+      - {x: -120, y: 49}
+    - - {x: -103, y: 54}
+      - {x: -109, y: 50}
+      - {x: -110, y: 49}
+      - {x: -110, y: 36}
+      - {x: -102, y: 31}
+      - {x: -88, y: 31}
+      - {x: -86, y: 33}
+      - {x: -86, y: 48}
+      - {x: -89, y: 54}
+    - - {x: -119, y: 46}
+      - {x: -116, y: 47}
+      - {x: -116, y: 50}
+      - {x: -119, y: 51}
+      - {x: -121, y: 49}
+    - - {x: -143, y: 48}
+      - {x: -140, y: 49}
+      - {x: -140, y: 52}
+      - {x: -143, y: 53}
+      - {x: -145, y: 51}
+    - - {x: -123, y: 51}
+      - {x: -120, y: 52}
+      - {x: -120, y: 55}
+      - {x: -123, y: 56}
+      - {x: -125, y: 54}
+    - - {x: -138, y: 52}
+      - {x: -135, y: 53}
+      - {x: -135, y: 56}
+      - {x: -138, y: 57}
+      - {x: -140, y: 55}
+    - - {x: -200, y: 87}
+      - {x: -203, y: 82}
+      - {x: -204, y: 73}
+      - {x: -204, y: 69}
+      - {x: -200, y: 63}
+      - {x: -190, y: 63}
+      - {x: -184, y: 65}
+      - {x: -184, y: 85}
+      - {x: -191, y: 87}
+    - - {x: -156, y: 86}
+      - {x: -166, y: 86}
+      - {x: -171, y: 84}
+      - {x: -174, y: 72}
+      - {x: -174, y: 68}
+      - {x: -167, y: 63}
+      - {x: -158, y: 63}
+      - {x: -151, y: 67}
+      - {x: -151, y: 74}
+      - {x: -153, y: 82}
+    - - {x: -46, y: 72}
+      - {x: -46, y: 67}
+      - {x: -41, y: 63}
+      - {x: -30, y: 63}
+      - {x: -23, y: 66}
+      - {x: -23, y: 77}
+      - {x: -25, y: 82}
+      - {x: -28, y: 86}
+      - {x: -38, y: 86}
+      - {x: -43, y: 84}
+    - - {x: -136, y: 89}
+      - {x: -141, y: 80}
+      - {x: -141, y: 71}
+      - {x: -138, y: 65}
+      - {x: -126, y: 65}
+      - {x: -119, y: 69}
+      - {x: -119, y: 87}
+      - {x: -127, y: 89}
+    - - {x: -70, y: 91}
+      - {x: -77, y: 82}
+      - {x: -77, y: 72}
+      - {x: -76, y: 70}
+      - {x: -68, y: 67}
+      - {x: -58, y: 67}
+      - {x: -55, y: 73}
+      - {x: -55, y: 83}
+      - {x: -61, y: 91}
+    - - {x: -101, y: 91}
+      - {x: -108, y: 83}
+      - {x: -108, y: 73}
+      - {x: -105, y: 68}
+      - {x: -90, y: 68}
+      - {x: -86, y: 70}
+      - {x: -86, y: 84}
+      - {x: -90, y: 91}
+    - - {x: -191, y: 118}
+      - {x: -199, y: 118}
+      - {x: -206, y: 108}
+      - {x: -206, y: 100}
+      - {x: -205, y: 95}
+      - {x: -202, y: 94}
+      - {x: -193, y: 94}
+      - {x: -187, y: 97}
+      - {x: -186, y: 109}
+      - {x: -186, y: 114}
+    - - {x: -170, y: 118}
+      - {x: -173, y: 112}
+      - {x: -173, y: 102}
+      - {x: -167, y: 94}
+      - {x: -158, y: 94}
+      - {x: -154, y: 101}
+      - {x: -154, y: 115}
+      - {x: -159, y: 118}
+    - - {x: -134, y: 118}
+      - {x: -140, y: 114}
+      - {x: -140, y: 95}
+      - {x: -118, y: 95}
+      - {x: -110, y: 99}
+      - {x: -110, y: 111}
+      - {x: -118, y: 118}
+    - - {x: -104, y: 118}
+      - {x: -108, y: 109}
+      - {x: -108, y: 95}
+      - {x: -87, y: 95}
+      - {x: -78, y: 98}
+      - {x: -78, y: 110}
+      - {x: -89, y: 118}
+    - - {x: -56, y: 118}
+      - {x: -71, y: 118}
+      - {x: -76, y: 116}
+      - {x: -76, y: 100}
+      - {x: -72, y: 95}
+      - {x: -58, y: 95}
+      - {x: -46, y: 102}
+      - {x: -46, y: 107}
+      - {x: -48, y: 111}
+    - - {x: -30, y: 118}
+      - {x: -39, y: 118}
+      - {x: -42, y: 112}
+      - {x: -44, y: 105}
+      - {x: -44, y: 100}
+      - {x: -40, y: 95}
+      - {x: -28, y: 95}
+      - {x: -14, y: 102}
+      - {x: -14, y: 111}
+      - {x: -15, y: 113}
+    - - {x: 10, y: 119}
+      - {x: -7, y: 119}
+      - {x: -12, y: 115}
+      - {x: -12, y: 98}
+      - {x: -5, y: 95}
+      - {x: 7, y: 95}
+      - {x: 15, y: 106}
+      - {x: 15, y: 110}
+      - {x: 14, y: 116}
+    - - {x: 27, y: 119}
+      - {x: 21, y: 117}
+      - {x: 20, y: 114}
+      - {x: 20, y: 102}
+      - {x: 25, y: 95}
+      - {x: 37, y: 95}
+      - {x: 41, y: 100}
+      - {x: 41, y: 111}
+      - {x: 36, y: 119}
+    - - {x: 56, y: 119}
+      - {x: 53, y: 114}
+      - {x: 52, y: 105}
+      - {x: 52, y: 101}
+      - {x: 59, y: 95}
+      - {x: 67, y: 95}
+      - {x: 71, y: 100}
+      - {x: 71, y: 117}
+      - {x: 66, y: 119}
+    - - {x: 88, y: 119}
+      - {x: 85, y: 114}
+      - {x: 84, y: 105}
+      - {x: 84, y: 101}
+      - {x: 88, y: 95}
+      - {x: 99, y: 95}
+      - {x: 104, y: 97}
+      - {x: 104, y: 117}
+      - {x: 97, y: 119}
+    - - {x: -167, y: 150}
+      - {x: -173, y: 141}
+      - {x: -173, y: 126}
+      - {x: -154, y: 126}
+      - {x: -145, y: 134}
+      - {x: -145, y: 150}
+    - - {x: -123, y: 150}
+      - {x: -134, y: 150}
+      - {x: -141, y: 142}
+      - {x: -141, y: 132}
+      - {x: -138, y: 126}
+      - {x: -129, y: 126}
+      - {x: -126, y: 127}
+      - {x: -116, y: 136}
+      - {x: -116, y: 139}
+    - - {x: -102, y: 150}
+      - {x: -109, y: 142}
+      - {x: -109, y: 132}
+      - {x: -106, y: 126}
+      - {x: -92, y: 126}
+      - {x: -89, y: 131}
+      - {x: -89, y: 146}
+      - {x: -91, y: 150}
+    - - {x: -72, y: 150}
+      - {x: -77, y: 141}
+      - {x: -77, y: 129}
+      - {x: -72, y: 126}
+      - {x: -60, y: 126}
+      - {x: -57, y: 131}
+      - {x: -57, y: 146}
+      - {x: -59, y: 150}
+    - - {x: -39, y: 150}
+      - {x: -44, y: 148}
+      - {x: -44, y: 132}
+      - {x: -36, y: 126}
+      - {x: -29, y: 126}
+      - {x: -25, y: 130}
+      - {x: -25, y: 145}
+      - {x: -26, y: 150}
+    - - {x: -198, y: 151}
+      - {x: -204, y: 143}
+      - {x: -204, y: 131}
+      - {x: -203, y: 127}
+      - {x: -186, y: 127}
+      - {x: -182, y: 129}
+      - {x: -175, y: 142}
+      - {x: -175, y: 146}
+      - {x: -176, y: 151}
+    - - {x: 11, y: 151}
+      - {x: -6, y: 151}
+      - {x: -11, y: 147}
+      - {x: -11, y: 130}
+      - {x: -4, y: 127}
+      - {x: 8, y: 127}
+      - {x: 16, y: 138}
+      - {x: 16, y: 142}
+      - {x: 15, y: 148}
+    - - {x: 28, y: 151}
+      - {x: 22, y: 149}
+      - {x: 21, y: 146}
+      - {x: 21, y: 134}
+      - {x: 26, y: 127}
+      - {x: 38, y: 127}
+      - {x: 42, y: 132}
+      - {x: 42, y: 143}
+      - {x: 37, y: 151}
+    - - {x: 57, y: 151}
+      - {x: 54, y: 146}
+      - {x: 53, y: 137}
+      - {x: 53, y: 133}
+      - {x: 60, y: 127}
+      - {x: 68, y: 127}
+      - {x: 72, y: 132}
+      - {x: 72, y: 149}
+      - {x: 67, y: 151}
+    - - {x: 89, y: 151}
+      - {x: 86, y: 146}
+      - {x: 85, y: 137}
+      - {x: 85, y: 133}
+      - {x: 89, y: 127}
+      - {x: 100, y: 127}
+      - {x: 105, y: 129}
+      - {x: 105, y: 149}
+      - {x: 98, y: 151}
+    - - {x: -201, y: 182}
+      - {x: -204, y: 173}
+      - {x: -204, y: 162}
+      - {x: -199, y: 159}
+      - {x: -189, y: 159}
+      - {x: -185, y: 164}
+      - {x: -185, y: 180}
+      - {x: -189, y: 182}
+    - - {x: -41, y: 183}
+      - {x: -45, y: 175}
+      - {x: -45, y: 162}
+      - {x: -42, y: 159}
+      - {x: -31, y: 159}
+      - {x: -24, y: 161}
+      - {x: -16, y: 176}
+      - {x: -16, y: 178}
+      - {x: -18, y: 183}
+    - - {x: 10, y: 183}
+      - {x: -7, y: 183}
+      - {x: -12, y: 179}
+      - {x: -12, y: 162}
+      - {x: -5, y: 159}
+      - {x: 7, y: 159}
+      - {x: 15, y: 170}
+      - {x: 15, y: 174}
+      - {x: 14, y: 180}
+    - - {x: 27, y: 183}
+      - {x: 21, y: 181}
+      - {x: 20, y: 178}
+      - {x: 20, y: 166}
+      - {x: 25, y: 159}
+      - {x: 37, y: 159}
+      - {x: 41, y: 164}
+      - {x: 41, y: 175}
+      - {x: 36, y: 183}
+    - - {x: 56, y: 183}
+      - {x: 53, y: 178}
+      - {x: 52, y: 169}
+      - {x: 52, y: 165}
+      - {x: 59, y: 159}
+      - {x: 67, y: 159}
+      - {x: 71, y: 164}
+      - {x: 71, y: 181}
+      - {x: 66, y: 183}
+    - - {x: 88, y: 183}
+      - {x: 85, y: 178}
+      - {x: 84, y: 169}
+      - {x: 84, y: 165}
+      - {x: 88, y: 159}
+      - {x: 99, y: 159}
+      - {x: 104, y: 161}
+      - {x: 104, y: 181}
+      - {x: 97, y: 183}
+    - - {x: -157, y: 183}
+      - {x: -169, y: 183}
+      - {x: -173, y: 174}
+      - {x: -173, y: 163}
+      - {x: -170, y: 160}
+      - {x: -146, y: 160}
+      - {x: -145, y: 163}
+      - {x: -145, y: 169}
+      - {x: -152, y: 181}
+    - - {x: -139, y: 185}
+      - {x: -141, y: 180}
+      - {x: -141, y: 167}
+      - {x: -136, y: 160}
+      - {x: -110, y: 160}
+      - {x: -110, y: 180}
+      - {x: -120, y: 185}
+    - - {x: -72, y: 185}
+      - {x: -77, y: 175}
+      - {x: -77, y: 167}
+      - {x: -71, y: 160}
+      - {x: -68, y: 160}
+      - {x: -60, y: 162}
+      - {x: -47, y: 173}
+      - {x: -47, y: 176}
+      - {x: -50, y: 185}
+    - - {x: -104, y: 186}
+      - {x: -109, y: 178}
+      - {x: -109, y: 168}
+      - {x: -105, y: 161}
+      - {x: -81, y: 161}
+      - {x: -78, y: 168}
+      - {x: -78, y: 186}
+    - - {x: -85, y: 165}
+      - {x: -83, y: 163}
+      - {x: -80, y: 164}
+      - {x: -79, y: 169}
+      - {x: -81, y: 171}
+      - {x: -84, y: 170}
+    - - {x: -103, y: 215}
+      - {x: -107, y: 213}
+      - {x: -107, y: 197}
+      - {x: -102, y: 191}
+      - {x: -92, y: 191}
+      - {x: -89, y: 194}
+      - {x: -89, y: 207}
+      - {x: -92, y: 215}
+    - - {x: 23, y: 215}
+      - {x: 21, y: 214}
+      - {x: 21, y: 193}
+      - {x: 27, y: 191}
+      - {x: 38, y: 191}
+      - {x: 39, y: 193}
+      - {x: 39, y: 207}
+      - {x: 37, y: 215}
+    - - {x: -74, y: 216}
+      - {x: -74, y: 195}
+      - {x: -71, y: 192}
+      - {x: -62, y: 192}
+      - {x: -58, y: 198}
+      - {x: -58, y: 213}
+      - {x: -63, y: 216}
+    - - {x: 1, y: 216}
+      - {x: -5, y: 216}
+      - {x: -10, y: 214}
+      - {x: -10, y: 197}
+      - {x: -7, y: 192}
+      - {x: 2, y: 192}
+      - {x: 6, y: 198}
+      - {x: 6, y: 211}
+    - - {x: -200, y: 216}
+      - {x: -205, y: 205}
+      - {x: -205, y: 197}
+      - {x: -200, y: 193}
+      - {x: -188, y: 193}
+      - {x: -183, y: 197}
+      - {x: -183, y: 214}
+      - {x: -190, y: 216}
+    - - {x: -134, y: 216}
+      - {x: -139, y: 210}
+      - {x: -141, y: 205}
+      - {x: -141, y: 194}
+      - {x: -137, y: 193}
+      - {x: -120, y: 193}
+      - {x: -119, y: 194}
+      - {x: -119, y: 210}
+      - {x: -123, y: 216}
+    - - {x: -37, y: 217}
+      - {x: -42, y: 215}
+      - {x: -42, y: 196}
+      - {x: -37, y: 193}
+      - {x: -29, y: 193}
+      - {x: -26, y: 199}
+      - {x: -26, y: 216}
+      - {x: -27, y: 217}
+    - - {x: -167, y: 217}
+      - {x: -173, y: 208}
+      - {x: -173, y: 196}
+      - {x: -168, y: 195}
+      - {x: -153, y: 195}
+      - {x: -151, y: 197}
+      - {x: -151, y: 207}
+      - {x: -156, y: 217}
+    - - {x: -200, y: 247}
+      - {x: -203, y: 242}
+      - {x: -204, y: 233}
+      - {x: -204, y: 229}
+      - {x: -200, y: 223}
+      - {x: -190, y: 223}
+      - {x: -184, y: 225}
+      - {x: -184, y: 245}
+      - {x: -191, y: 247}
+    - - {x: -170, y: 248}
+      - {x: -173, y: 244}
+      - {x: -173, y: 226}
+      - {x: -166, y: 223}
+      - {x: -153, y: 223}
+      - {x: -150, y: 229}
+      - {x: -150, y: 237}
+      - {x: -157, y: 248}
+    - - {x: -124, y: 248}
+      - {x: -133, y: 248}
+      - {x: -139, y: 246}
+      - {x: -141, y: 236}
+      - {x: -141, y: 229}
+      - {x: -133, y: 223}
+      - {x: -124, y: 223}
+      - {x: -118, y: 228}
+      - {x: -118, y: 237}
+      - {x: -119, y: 242}
+    - - {x: -94, y: 248}
+      - {x: -103, y: 248}
+      - {x: -106, y: 243}
+      - {x: -109, y: 233}
+      - {x: -109, y: 231}
+      - {x: -101, y: 223}
+      - {x: -92, y: 223}
+      - {x: -86, y: 229}
+      - {x: -86, y: 235}
+      - {x: -89, y: 246}
+    - - {x: -72, y: 247}
+      - {x: -76, y: 240}
+      - {x: -76, y: 226}
+      - {x: -70, y: 223}
+      - {x: -57, y: 223}
+      - {x: -56, y: 224}
+      - {x: -56, y: 239}
+      - {x: -61, y: 247}
+    - - {x: -40, y: 247}
+      - {x: -44, y: 240}
+      - {x: -44, y: 226}
+      - {x: -38, y: 223}
+      - {x: -25, y: 223}
+      - {x: -24, y: 224}
+      - {x: -24, y: 239}
+      - {x: -29, y: 247}
+    - - {x: -8, y: 247}
+      - {x: -12, y: 240}
+      - {x: -12, y: 226}
+      - {x: -6, y: 223}
+      - {x: 7, y: 223}
+      - {x: 8, y: 224}
+      - {x: 8, y: 239}
+      - {x: 3, y: 247}
+    - - {x: 24, y: 247}
+      - {x: 20, y: 240}
+      - {x: 20, y: 226}
+      - {x: 26, y: 223}
+      - {x: 39, y: 223}
+      - {x: 40, y: 224}
+      - {x: 40, y: 239}
+      - {x: 35, y: 247}
+    - - {x: 55, y: 247}
+      - {x: 52, y: 240}
+      - {x: 52, y: 225}
+      - {x: 59, y: 223}
+      - {x: 70, y: 223}
+      - {x: 72, y: 226}
+      - {x: 72, y: 239}
+      - {x: 67, y: 247}
+    - - {x: 86, y: 247}
+      - {x: 84, y: 238}
+      - {x: 84, y: 226}
+      - {x: 87, y: 223}
+      - {x: 98, y: 223}
+      - {x: 104, y: 225}
+      - {x: 104, y: 246}
+      - {x: 101, y: 247}
+    - - {x: 120, y: 247}
+      - {x: 117, y: 242}
+      - {x: 116, y: 233}
+      - {x: 116, y: 229}
+      - {x: 120, y: 223}
+      - {x: 131, y: 223}
+      - {x: 136, y: 225}
+      - {x: 136, y: 245}
+      - {x: 129, y: 247}
+    - - {x: 152, y: 247}
+      - {x: 149, y: 242}
+      - {x: 148, y: 233}
+      - {x: 148, y: 229}
+      - {x: 152, y: 223}
+      - {x: 163, y: 223}
+      - {x: 168, y: 225}
+      - {x: 168, y: 245}
+      - {x: 161, y: 247}
+    - - {x: 184, y: 247}
+      - {x: 181, y: 242}
+      - {x: 180, y: 233}
+      - {x: 180, y: 229}
+      - {x: 184, y: 223}
+      - {x: 195, y: 223}
+      - {x: 200, y: 225}
+      - {x: 200, y: 245}
+      - {x: 193, y: 247}
+    physicsShape:
+    - - {x: -200, y: -256}
+      - {x: -183, y: -256}
+      - {x: -180, y: -255}
+      - {x: -180, y: -239}
+      - {x: -183, y: -233}
+      - {x: -197, y: -233}
+      - {x: -200, y: -240}
+    - - {x: -167, y: -234}
+      - {x: -170, y: -244}
+      - {x: -170, y: -250}
+      - {x: -164, y: -256}
+      - {x: -153, y: -256}
+      - {x: -146, y: -249}
+      - {x: -146, y: -239}
+      - {x: -152, y: -234}
+    - - {x: -134, y: -235}
+      - {x: -138, y: -242}
+      - {x: -138, y: -250}
+      - {x: -133, y: -256}
+      - {x: -120, y: -256}
+      - {x: -114, y: -251}
+      - {x: -114, y: -238}
+      - {x: -121, y: -235}
+    - - {x: -99, y: -239}
+      - {x: -106, y: -242}
+      - {x: -106, y: -251}
+      - {x: -101, y: -256}
+      - {x: -87, y: -256}
+      - {x: -82, y: -250}
+      - {x: -82, y: -246}
+      - {x: -89, y: -239}
+    - - {x: -58, y: -244}
+      - {x: -70, y: -244}
+      - {x: -76, y: -246}
+      - {x: -76, y: -256}
+      - {x: -51, y: -256}
+      - {x: -51, y: -253}
+      - {x: -55, y: -247}
+    - - {x: -38, y: -243}
+      - {x: -45, y: -246}
+      - {x: -45, y: -256}
+      - {x: -21, y: -256}
+      - {x: -20, y: -254}
+      - {x: -20, y: -250}
+      - {x: -27, y: -243}
+    - - {x: 5, y: -244}
+      - {x: -7, y: -244}
+      - {x: -13, y: -246}
+      - {x: -13, y: -256}
+      - {x: 12, y: -256}
+      - {x: 12, y: -253}
+      - {x: 8, y: -247}
+    - - {x: -138, y: -242}
+      - {x: -135, y: -241}
+      - {x: -135, y: -238}
+      - {x: -138, y: -237}
+      - {x: -140, y: -239}
+    - - {x: -114, y: -240}
+      - {x: -111, y: -239}
+      - {x: -111, y: -236}
+      - {x: -114, y: -235}
+      - {x: -116, y: -237}
+    - - {x: -134, y: -237}
+      - {x: -131, y: -236}
+      - {x: -131, y: -233}
+      - {x: -134, y: -232}
+      - {x: -136, y: -234}
+    - - {x: -119, y: -236}
+      - {x: -116, y: -235}
+      - {x: -116, y: -232}
+      - {x: -119, y: -231}
+      - {x: -121, y: -233}
+    - - {x: -193, y: -201}
+      - {x: -200, y: -205}
+      - {x: -200, y: -220}
+      - {x: -194, y: -225}
+      - {x: -186, y: -225}
+      - {x: -180, y: -218}
+      - {x: -180, y: -207}
+      - {x: -183, y: -201}
+    - - {x: -169, y: -202}
+      - {x: -170, y: -204}
+      - {x: -170, y: -219}
+      - {x: -163, y: -225}
+      - {x: -154, y: -225}
+      - {x: -146, y: -219}
+      - {x: -146, y: -211}
+      - {x: -149, y: -202}
+    - - {x: -130, y: -203}
+      - {x: -138, y: -212}
+      - {x: -138, y: -219}
+      - {x: -134, y: -225}
+      - {x: -121, y: -225}
+      - {x: -114, y: -220}
+      - {x: -114, y: -214}
+      - {x: -121, y: -203}
+    - - {x: -87, y: -202}
+      - {x: -98, y: -202}
+      - {x: -105, y: -205}
+      - {x: -106, y: -211}
+      - {x: -106, y: -218}
+      - {x: -99, y: -225}
+      - {x: -90, y: -225}
+      - {x: -82, y: -219}
+      - {x: -82, y: -212}
+      - {x: -84, y: -207}
+    - - {x: -138, y: -210}
+      - {x: -135, y: -209}
+      - {x: -135, y: -206}
+      - {x: -138, y: -205}
+      - {x: -140, y: -207}
+    - - {x: -114, y: -208}
+      - {x: -111, y: -207}
+      - {x: -111, y: -204}
+      - {x: -114, y: -203}
+      - {x: -116, y: -205}
+    - - {x: -134, y: -205}
+      - {x: -131, y: -204}
+      - {x: -131, y: -201}
+      - {x: -134, y: -200}
+      - {x: -136, y: -202}
+    - - {x: -119, y: -204}
+      - {x: -116, y: -203}
+      - {x: -116, y: -200}
+      - {x: -119, y: -199}
+      - {x: -121, y: -201}
+    - - {x: -198, y: -169}
+      - {x: -200, y: -174}
+      - {x: -200, y: -189}
+      - {x: -198, y: -193}
+      - {x: -187, y: -193}
+      - {x: -180, y: -190}
+      - {x: -180, y: -172}
+      - {x: -185, y: -169}
+    - - {x: -154, y: -170}
+      - {x: -164, y: -170}
+      - {x: -167, y: -174}
+      - {x: -169, y: -186}
+      - {x: -169, y: -187}
+      - {x: -162, y: -193}
+      - {x: -150, y: -193}
+      - {x: -146, y: -190}
+      - {x: -146, y: -177}
+      - {x: -149, y: -171}
+    - - {x: -26, y: -170}
+      - {x: -36, y: -170}
+      - {x: -39, y: -174}
+      - {x: -41, y: -180}
+      - {x: -41, y: -191}
+      - {x: -37, y: -193}
+      - {x: -22, y: -193}
+      - {x: -18, y: -189}
+      - {x: -18, y: -178}
+      - {x: -21, y: -171}
+    - - {x: -120, y: -167}
+      - {x: -133, y: -167}
+      - {x: -137, y: -177}
+      - {x: -137, y: -187}
+      - {x: -131, y: -190}
+      - {x: -125, y: -191}
+      - {x: -121, y: -191}
+      - {x: -115, y: -185}
+      - {x: -115, y: -178}
+      - {x: -117, y: -169}
+    - - {x: -56, y: -165}
+      - {x: -69, y: -165}
+      - {x: -73, y: -174}
+      - {x: -73, y: -184}
+      - {x: -69, y: -189}
+      - {x: -57, y: -189}
+      - {x: -51, y: -182}
+      - {x: -51, y: -173}
+      - {x: -53, y: -166}
+    - - {x: -101, y: -165}
+      - {x: -106, y: -172}
+      - {x: -106, y: -181}
+      - {x: -101, y: -188}
+      - {x: -88, y: -188}
+      - {x: -84, y: -184}
+      - {x: -84, y: -175}
+      - {x: -89, y: -165}
+    - - {x: -198, y: -154}
+      - {x: -195, y: -162}
+      - {x: -181, y: -162}
+      - {x: -178, y: -159}
+      - {x: -178, y: -145}
+      - {x: -180, y: -139}
+      - {x: -185, y: -138}
+      - {x: -198, y: -138}
+    - - {x: -151, y: -138}
+      - {x: -162, y: -138}
+      - {x: -166, y: -140}
+      - {x: -166, y: -161}
+      - {x: -163, y: -162}
+      - {x: -151, y: -162}
+      - {x: -147, y: -157}
+      - {x: -147, y: -147}
+      - {x: -148, y: -143}
+    - - {x: -139, y: -138}
+      - {x: -146, y: -146}
+      - {x: -146, y: -156}
+      - {x: -141, y: -158}
+      - {x: -130, y: -161}
+      - {x: -119, y: -161}
+      - {x: -116, y: -158}
+      - {x: -116, y: -148}
+      - {x: -121, y: -138}
+    - - {x: -100, y: -138}
+      - {x: -114, y: -147}
+      - {x: -114, y: -155}
+      - {x: -112, y: -160}
+      - {x: -105, y: -161}
+      - {x: -84, y: -161}
+      - {x: -84, y: -148}
+      - {x: -89, y: -138}
+    - - {x: -57, y: -138}
+      - {x: -73, y: -138}
+      - {x: -82, y: -146}
+      - {x: -82, y: -158}
+      - {x: -76, y: -161}
+      - {x: -55, y: -161}
+      - {x: -52, y: -157}
+      - {x: -52, y: -147}
+      - {x: -54, y: -140}
+    - - {x: -36, y: -138}
+      - {x: -50, y: -147}
+      - {x: -50, y: -158}
+      - {x: -39, y: -161}
+      - {x: -21, y: -161}
+      - {x: -20, y: -159}
+      - {x: -20, y: -146}
+      - {x: -25, y: -138}
+    - - {x: -9, y: -137}
+      - {x: -14, y: -140}
+      - {x: -15, y: -145}
+      - {x: -15, y: -149}
+      - {x: -6, y: -160}
+      - {x: -2, y: -161}
+      - {x: 8, y: -161}
+      - {x: 12, y: -159}
+      - {x: 12, y: -144}
+      - {x: 9, y: -137}
+    - - {x: 23, y: -155}
+      - {x: 27, y: -161}
+      - {x: 37, y: -161}
+      - {x: 44, y: -159}
+      - {x: 44, y: -142}
+      - {x: 42, y: -137}
+      - {x: 28, y: -137}
+      - {x: 23, y: -145}
+    - - {x: 70, y: -137}
+      - {x: 63, y: -137}
+      - {x: 58, y: -142}
+      - {x: 57, y: -154}
+      - {x: 59, y: -158}
+      - {x: 62, y: -161}
+      - {x: 69, y: -161}
+      - {x: 76, y: -154}
+      - {x: 76, y: -151}
+      - {x: 75, y: -143}
+    - - {x: 104, y: -137}
+      - {x: 95, y: -137}
+      - {x: 88, y: -140}
+      - {x: 88, y: -156}
+      - {x: 94, y: -161}
+      - {x: 101, y: -161}
+      - {x: 108, y: -154}
+      - {x: 108, y: -151}
+      - {x: 107, y: -143}
+    - - {x: -175, y: -120}
+      - {x: -169, y: -130}
+      - {x: -147, y: -130}
+      - {x: -147, y: -118}
+      - {x: -149, y: -107}
+      - {x: -152, y: -106}
+      - {x: -168, y: -106}
+      - {x: -175, y: -111}
+    - - {x: -118, y: -107}
+      - {x: -122, y: -106}
+      - {x: -133, y: -106}
+      - {x: -140, y: -117}
+      - {x: -140, y: -121}
+      - {x: -131, y: -129}
+      - {x: -127, y: -130}
+      - {x: -120, y: -130}
+      - {x: -115, y: -123}
+      - {x: -115, y: -119}
+    - - {x: -88, y: -106}
+      - {x: -102, y: -106}
+      - {x: -103, y: -108}
+      - {x: -103, y: -125}
+      - {x: -100, y: -130}
+      - {x: -88, y: -130}
+      - {x: -83, y: -124}
+      - {x: -83, y: -119}
+      - {x: -86, y: -107}
+    - - {x: -71, y: -117}
+      - {x: -69, y: -127}
+      - {x: -65, y: -130}
+      - {x: -55, y: -130}
+      - {x: -51, y: -126}
+      - {x: -51, y: -114}
+      - {x: -54, y: -107}
+      - {x: -59, y: -106}
+      - {x: -69, y: -106}
+      - {x: -71, y: -109}
+    - - {x: -37, y: -106}
+      - {x: -39, y: -109}
+      - {x: -39, y: -117}
+      - {x: -38, y: -127}
+      - {x: -34, y: -129}
+      - {x: -30, y: -130}
+      - {x: -27, y: -130}
+      - {x: -20, y: -124}
+      - {x: -20, y: -109}
+      - {x: -27, y: -106}
+    - - {x: -185, y: -105}
+      - {x: -208, y: -105}
+      - {x: -208, y: -116}
+      - {x: -197, y: -129}
+      - {x: -184, y: -129}
+      - {x: -180, y: -125}
+      - {x: -180, y: -114}
+      - {x: -181, y: -110}
+    - - {x: -2, y: -105}
+      - {x: -16, y: -112}
+      - {x: -16, y: -116}
+      - {x: -10, y: -126}
+      - {x: -4, y: -129}
+      - {x: 9, y: -129}
+      - {x: 11, y: -126}
+      - {x: 11, y: -113}
+      - {x: 6, y: -105}
+    - - {x: 27, y: -105}
+      - {x: 22, y: -113}
+      - {x: 22, y: -127}
+      - {x: 26, y: -129}
+      - {x: 41, y: -129}
+      - {x: 43, y: -126}
+      - {x: 43, y: -113}
+      - {x: 38, y: -105}
+    - - {x: 69, y: -105}
+      - {x: 62, y: -105}
+      - {x: 57, y: -110}
+      - {x: 56, y: -122}
+      - {x: 58, y: -126}
+      - {x: 61, y: -129}
+      - {x: 68, y: -129}
+      - {x: 75, y: -122}
+      - {x: 75, y: -119}
+      - {x: 74, y: -111}
+    - - {x: 101, y: -105}
+      - {x: 94, y: -105}
+      - {x: 88, y: -110}
+      - {x: 87, y: -120}
+      - {x: 87, y: -124}
+      - {x: 93, y: -129}
+      - {x: 100, y: -129}
+      - {x: 107, y: -122}
+      - {x: 107, y: -119}
+      - {x: 106, y: -111}
+    - - {x: -186, y: -74}
+      - {x: -193, y: -74}
+      - {x: -199, y: -76}
+      - {x: -199, y: -93}
+      - {x: -198, y: -97}
+      - {x: -183, y: -97}
+      - {x: -180, y: -93}
+      - {x: -180, y: -82}
+      - {x: -181, y: -80}
+    - - {x: -48, y: -73}
+      - {x: -48, y: -84}
+      - {x: -41, y: -96}
+      - {x: -37, y: -97}
+      - {x: -21, y: -97}
+      - {x: -19, y: -93}
+      - {x: -19, y: -73}
+    - - {x: -1, y: -73}
+      - {x: -15, y: -80}
+      - {x: -15, y: -84}
+      - {x: -6, y: -97}
+      - {x: 6, y: -97}
+      - {x: 12, y: -94}
+      - {x: 12, y: -81}
+      - {x: 8, y: -73}
+    - - {x: 27, y: -73}
+      - {x: 23, y: -81}
+      - {x: 23, y: -92}
+      - {x: 26, y: -97}
+      - {x: 38, y: -97}
+      - {x: 44, y: -94}
+      - {x: 44, y: -81}
+      - {x: 40, y: -73}
+    - - {x: 58, y: -78}
+      - {x: 57, y: -90}
+      - {x: 59, y: -97}
+      - {x: 69, y: -97}
+      - {x: 76, y: -94}
+      - {x: 76, y: -82}
+      - {x: 75, y: -79}
+      - {x: 70, y: -73}
+      - {x: 63, y: -73}
+    - - {x: 102, y: -73}
+      - {x: 95, y: -73}
+      - {x: 89, y: -78}
+      - {x: 88, y: -88}
+      - {x: 88, y: -92}
+      - {x: 94, y: -97}
+      - {x: 101, y: -97}
+      - {x: 108, y: -90}
+      - {x: 108, y: -87}
+      - {x: 107, y: -79}
+    - - {x: -163, y: -73}
+      - {x: -175, y: -89}
+      - {x: -175, y: -96}
+      - {x: -151, y: -96}
+      - {x: -147, y: -93}
+      - {x: -147, y: -83}
+      - {x: -152, y: -73}
+    - - {x: -117, y: -73}
+      - {x: -121, y: -71}
+      - {x: -137, y: -71}
+      - {x: -146, y: -77}
+      - {x: -146, y: -90}
+      - {x: -145, y: -93}
+      - {x: -143, y: -96}
+      - {x: -133, y: -96}
+      - {x: -132, y: -95}
+      - {x: -127, y: -96}
+      - {x: -120, y: -96}
+      - {x: -115, y: -90}
+      - {x: -115, y: -83}
+    - - {x: -81, y: -71}
+      - {x: -81, y: -84}
+      - {x: -67, y: -95}
+      - {x: -62, y: -96}
+      - {x: -56, y: -96}
+      - {x: -51, y: -90}
+      - {x: -51, y: -71}
+    - - {x: -90, y: -70}
+      - {x: -103, y: -70}
+      - {x: -114, y: -75}
+      - {x: -114, y: -85}
+      - {x: -100, y: -95}
+      - {x: -88, y: -95}
+      - {x: -83, y: -89}
+      - {x: -83, y: -82}
+      - {x: -85, y: -72}
+    - - {x: -113, y: -89}
+      - {x: -110, y: -93}
+      - {x: -107, y: -91}
+      - {x: -108, y: -87}
+      - {x: -110, y: -85}
+      - {x: -113, y: -86}
+    - - {x: -97, y: -41}
+      - {x: -103, y: -44}
+      - {x: -103, y: -64}
+      - {x: -100, y: -65}
+      - {x: -87, y: -65}
+      - {x: -85, y: -62}
+      - {x: -85, y: -45}
+      - {x: -87, y: -41}
+    - - {x: 38, y: -41}
+      - {x: 31, y: -41}
+      - {x: 26, y: -46}
+      - {x: 25, y: -58}
+      - {x: 27, y: -62}
+      - {x: 30, y: -65}
+      - {x: 40, y: -65}
+      - {x: 43, y: -59}
+      - {x: 43, y: -47}
+    - - {x: -56, y: -40}
+      - {x: -66, y: -40}
+      - {x: -70, y: -42}
+      - {x: -70, y: -61}
+      - {x: -64, y: -64}
+      - {x: -57, y: -64}
+      - {x: -54, y: -59}
+      - {x: -54, y: -44}
+    - - {x: 8, y: -40}
+      - {x: -2, y: -40}
+      - {x: -6, y: -42}
+      - {x: -6, y: -61}
+      - {x: 0, y: -64}
+      - {x: 7, y: -64}
+      - {x: 10, y: -59}
+      - {x: 10, y: -44}
+    - - {x: -186, y: -40}
+      - {x: -196, y: -40}
+      - {x: -199, y: -44}
+      - {x: -201, y: -54}
+      - {x: -201, y: -57}
+      - {x: -195, y: -63}
+      - {x: -182, y: -63}
+      - {x: -179, y: -59}
+      - {x: -179, y: -45}
+      - {x: -181, y: -42}
+    - - {x: -130, y: -40}
+      - {x: -137, y: -49}
+      - {x: -137, y: -59}
+      - {x: -136, y: -62}
+      - {x: -131, y: -63}
+      - {x: -119, y: -63}
+      - {x: -115, y: -59}
+      - {x: -115, y: -50}
+      - {x: -120, y: -40}
+    - - {x: -27, y: -39}
+      - {x: -33, y: -39}
+      - {x: -38, y: -44}
+      - {x: -38, y: -59}
+      - {x: -33, y: -63}
+      - {x: -29, y: -63}
+      - {x: -24, y: -61}
+      - {x: -22, y: -60}
+      - {x: -22, y: -42}
+    - - {x: -163, y: -39}
+      - {x: -169, y: -47}
+      - {x: -169, y: -57}
+      - {x: -167, y: -61}
+      - {x: -150, y: -61}
+      - {x: -147, y: -60}
+      - {x: -147, y: -48}
+      - {x: -153, y: -39}
+    - - {x: -186, y: -9}
+      - {x: -193, y: -9}
+      - {x: -199, y: -14}
+      - {x: -200, y: -24}
+      - {x: -200, y: -28}
+      - {x: -194, y: -33}
+      - {x: -187, y: -33}
+      - {x: -180, y: -26}
+      - {x: -180, y: -23}
+      - {x: -181, y: -15}
+    - - {x: -154, y: -8}
+      - {x: -163, y: -8}
+      - {x: -166, y: -13}
+      - {x: -170, y: -22}
+      - {x: -170, y: -28}
+      - {x: -164, y: -33}
+      - {x: -154, y: -33}
+      - {x: -147, y: -27}
+      - {x: -147, y: -20}
+      - {x: -149, y: -10}
+    - - {x: -123, y: -8}
+      - {x: -132, y: -8}
+      - {x: -137, y: -18}
+      - {x: -138, y: -21}
+      - {x: -138, y: -28}
+      - {x: -132, y: -33}
+      - {x: -122, y: -33}
+      - {x: -115, y: -27}
+      - {x: -115, y: -21}
+      - {x: -117, y: -10}
+    - - {x: -99, y: -8}
+      - {x: -103, y: -10}
+      - {x: -106, y: -19}
+      - {x: -106, y: -28}
+      - {x: -100, y: -33}
+      - {x: -90, y: -33}
+      - {x: -83, y: -29}
+      - {x: -83, y: -19}
+      - {x: -87, y: -8}
+    - - {x: -72, y: -14}
+      - {x: -72, y: -27}
+      - {x: -70, y: -33}
+      - {x: -57, y: -33}
+      - {x: -52, y: -31}
+      - {x: -52, y: -14}
+      - {x: -53, y: -13}
+      - {x: -56, y: -9}
+      - {x: -66, y: -9}
+      - {x: -71, y: -11}
+    - - {x: -40, y: -14}
+      - {x: -40, y: -27}
+      - {x: -38, y: -33}
+      - {x: -25, y: -33}
+      - {x: -20, y: -31}
+      - {x: -20, y: -14}
+      - {x: -21, y: -13}
+      - {x: -24, y: -9}
+      - {x: -34, y: -9}
+      - {x: -39, y: -11}
+    - - {x: -8, y: -14}
+      - {x: -8, y: -27}
+      - {x: -6, y: -33}
+      - {x: 7, y: -33}
+      - {x: 12, y: -31}
+      - {x: 12, y: -14}
+      - {x: 11, y: -13}
+      - {x: 8, y: -9}
+      - {x: -2, y: -9}
+      - {x: -7, y: -11}
+    - - {x: 24, y: -14}
+      - {x: 24, y: -27}
+      - {x: 26, y: -33}
+      - {x: 39, y: -33}
+      - {x: 44, y: -31}
+      - {x: 44, y: -14}
+      - {x: 43, y: -13}
+      - {x: 40, y: -9}
+      - {x: 30, y: -9}
+      - {x: 25, y: -11}
+    - - {x: 59, y: -9}
+      - {x: 56, y: -16}
+      - {x: 56, y: -29}
+      - {x: 59, y: -33}
+      - {x: 69, y: -33}
+      - {x: 76, y: -30}
+      - {x: 76, y: -12}
+      - {x: 69, y: -9}
+    - - {x: 88, y: -27}
+      - {x: 90, y: -33}
+      - {x: 106, y: -33}
+      - {x: 108, y: -32}
+      - {x: 108, y: -16}
+      - {x: 106, y: -9}
+      - {x: 92, y: -9}
+      - {x: 88, y: -15}
+    - - {x: 134, y: -9}
+      - {x: 127, y: -9}
+      - {x: 121, y: -14}
+      - {x: 120, y: -24}
+      - {x: 120, y: -28}
+      - {x: 126, y: -33}
+      - {x: 133, y: -33}
+      - {x: 140, y: -26}
+      - {x: 140, y: -23}
+      - {x: 139, y: -15}
+    - - {x: 166, y: -9}
+      - {x: 159, y: -9}
+      - {x: 153, y: -14}
+      - {x: 152, y: -24}
+      - {x: 152, y: -28}
+      - {x: 158, y: -33}
+      - {x: 165, y: -33}
+      - {x: 172, y: -26}
+      - {x: 172, y: -23}
+      - {x: 171, y: -15}
+    - - {x: 198, y: -9}
+      - {x: 191, y: -9}
+      - {x: 185, y: -14}
+      - {x: 184, y: -24}
+      - {x: 184, y: -28}
+      - {x: 190, y: -33}
+      - {x: 197, y: -33}
+      - {x: 204, y: -26}
+      - {x: 204, y: -23}
+      - {x: 203, y: -15}
+    - - {x: -57, y: 12}
+      - {x: -65, y: 12}
+      - {x: -74, y: 10}
+      - {x: -77, y: 4}
+      - {x: -77, y: 0}
+      - {x: -73, y: -2}
+      - {x: -55, y: -2}
+      - {x: -52, y: 0}
+      - {x: -52, y: 4}
+      - {x: -53, y: 8}
+    - - {x: -36, y: 13}
+      - {x: -44, y: 5}
+      - {x: -44, y: 2}
+      - {x: -41, y: -2}
+      - {x: -22, y: -2}
+      - {x: -19, y: -1}
+      - {x: -19, y: 11}
+      - {x: -26, y: 13}
+    - - {x: 8, y: 12}
+      - {x: 0, y: 12}
+      - {x: -9, y: 10}
+      - {x: -12, y: 4}
+      - {x: -12, y: 0}
+      - {x: -8, y: -2}
+      - {x: 10, y: -2}
+      - {x: 13, y: 0}
+      - {x: 13, y: 4}
+      - {x: 12, y: 8}
+    - - {x: -202, y: 23}
+      - {x: -204, y: 22}
+      - {x: -204, y: 4}
+      - {x: -202, y: -1}
+      - {x: -186, y: -1}
+      - {x: -184, y: 0}
+      - {x: -184, y: 21}
+      - {x: -191, y: 23}
+    - - {x: -170, y: 22}
+      - {x: -174, y: 19}
+      - {x: -174, y: 7}
+      - {x: -170, y: -1}
+      - {x: -156, y: -1}
+      - {x: -150, y: 5}
+      - {x: -150, y: 12}
+      - {x: -154, y: 22}
+    - - {x: -127, y: 21}
+      - {x: -138, y: 21}
+      - {x: -142, y: 12}
+      - {x: -142, y: 3}
+      - {x: -136, y: -1}
+      - {x: -122, y: -1}
+      - {x: -118, y: 5}
+      - {x: -118, y: 10}
+      - {x: -120, y: 17}
+    - - {x: -104, y: 17}
+      - {x: -110, y: 12}
+      - {x: -110, y: 2}
+      - {x: -108, y: -1}
+      - {x: -91, y: -1}
+      - {x: -86, y: 1}
+      - {x: -86, y: 15}
+      - {x: -93, y: 17}
+    - - {x: -119, y: 14}
+      - {x: -116, y: 15}
+      - {x: -116, y: 18}
+      - {x: -119, y: 19}
+      - {x: -121, y: 17}
+    - - {x: -143, y: 16}
+      - {x: -140, y: 17}
+      - {x: -140, y: 20}
+      - {x: -143, y: 21}
+      - {x: -145, y: 19}
+    - - {x: -123, y: 19}
+      - {x: -120, y: 20}
+      - {x: -120, y: 23}
+      - {x: -123, y: 24}
+      - {x: -125, y: 22}
+    - - {x: -138, y: 20}
+      - {x: -135, y: 21}
+      - {x: -135, y: 24}
+      - {x: -138, y: 25}
+      - {x: -140, y: 23}
+    - - {x: -200, y: 55}
+      - {x: -203, y: 50}
+      - {x: -204, y: 41}
+      - {x: -204, y: 37}
+      - {x: -200, y: 31}
+      - {x: -190, y: 31}
+      - {x: -184, y: 33}
+      - {x: -184, y: 53}
+      - {x: -191, y: 55}
+    - - {x: -172, y: 54}
+      - {x: -174, y: 48}
+      - {x: -174, y: 36}
+      - {x: -165, y: 31}
+      - {x: -156, y: 31}
+      - {x: -150, y: 37}
+      - {x: -150, y: 44}
+      - {x: -154, y: 54}
+    - - {x: -127, y: 53}
+      - {x: -138, y: 53}
+      - {x: -142, y: 44}
+      - {x: -142, y: 35}
+      - {x: -136, y: 31}
+      - {x: -122, y: 31}
+      - {x: -118, y: 37}
+      - {x: -118, y: 42}
+      - {x: -120, y: 49}
+    - - {x: -103, y: 54}
+      - {x: -109, y: 50}
+      - {x: -110, y: 49}
+      - {x: -110, y: 36}
+      - {x: -102, y: 31}
+      - {x: -88, y: 31}
+      - {x: -86, y: 33}
+      - {x: -86, y: 48}
+      - {x: -89, y: 54}
+    - - {x: -119, y: 46}
+      - {x: -116, y: 47}
+      - {x: -116, y: 50}
+      - {x: -119, y: 51}
+      - {x: -121, y: 49}
+    - - {x: -143, y: 48}
+      - {x: -140, y: 49}
+      - {x: -140, y: 52}
+      - {x: -143, y: 53}
+      - {x: -145, y: 51}
+    - - {x: -123, y: 51}
+      - {x: -120, y: 52}
+      - {x: -120, y: 55}
+      - {x: -123, y: 56}
+      - {x: -125, y: 54}
+    - - {x: -138, y: 52}
+      - {x: -135, y: 53}
+      - {x: -135, y: 56}
+      - {x: -138, y: 57}
+      - {x: -140, y: 55}
+    - - {x: -200, y: 87}
+      - {x: -203, y: 82}
+      - {x: -204, y: 73}
+      - {x: -204, y: 69}
+      - {x: -200, y: 63}
+      - {x: -190, y: 63}
+      - {x: -184, y: 65}
+      - {x: -184, y: 85}
+      - {x: -191, y: 87}
+    - - {x: -156, y: 86}
+      - {x: -166, y: 86}
+      - {x: -171, y: 84}
+      - {x: -174, y: 72}
+      - {x: -174, y: 68}
+      - {x: -167, y: 63}
+      - {x: -158, y: 63}
+      - {x: -151, y: 67}
+      - {x: -151, y: 74}
+      - {x: -153, y: 82}
+    - - {x: -46, y: 72}
+      - {x: -46, y: 67}
+      - {x: -41, y: 63}
+      - {x: -30, y: 63}
+      - {x: -23, y: 66}
+      - {x: -23, y: 77}
+      - {x: -25, y: 82}
+      - {x: -28, y: 86}
+      - {x: -38, y: 86}
+      - {x: -43, y: 84}
+    - - {x: -136, y: 89}
+      - {x: -141, y: 80}
+      - {x: -141, y: 71}
+      - {x: -138, y: 65}
+      - {x: -126, y: 65}
+      - {x: -119, y: 69}
+      - {x: -119, y: 87}
+      - {x: -127, y: 89}
+    - - {x: -70, y: 91}
+      - {x: -77, y: 82}
+      - {x: -77, y: 72}
+      - {x: -76, y: 70}
+      - {x: -68, y: 67}
+      - {x: -58, y: 67}
+      - {x: -55, y: 73}
+      - {x: -55, y: 83}
+      - {x: -61, y: 91}
+    - - {x: -101, y: 91}
+      - {x: -108, y: 83}
+      - {x: -108, y: 73}
+      - {x: -105, y: 68}
+      - {x: -90, y: 68}
+      - {x: -86, y: 70}
+      - {x: -86, y: 84}
+      - {x: -90, y: 91}
+    - - {x: -191, y: 118}
+      - {x: -199, y: 118}
+      - {x: -206, y: 108}
+      - {x: -206, y: 100}
+      - {x: -205, y: 95}
+      - {x: -202, y: 94}
+      - {x: -193, y: 94}
+      - {x: -187, y: 97}
+      - {x: -186, y: 109}
+      - {x: -186, y: 114}
+    - - {x: -170, y: 118}
+      - {x: -173, y: 112}
+      - {x: -173, y: 102}
+      - {x: -167, y: 94}
+      - {x: -158, y: 94}
+      - {x: -154, y: 101}
+      - {x: -154, y: 115}
+      - {x: -159, y: 118}
+    - - {x: -134, y: 118}
+      - {x: -140, y: 114}
+      - {x: -140, y: 95}
+      - {x: -118, y: 95}
+      - {x: -110, y: 99}
+      - {x: -110, y: 111}
+      - {x: -118, y: 118}
+    - - {x: -104, y: 118}
+      - {x: -108, y: 109}
+      - {x: -108, y: 95}
+      - {x: -87, y: 95}
+      - {x: -78, y: 98}
+      - {x: -78, y: 110}
+      - {x: -89, y: 118}
+    - - {x: -56, y: 118}
+      - {x: -71, y: 118}
+      - {x: -76, y: 116}
+      - {x: -76, y: 100}
+      - {x: -72, y: 95}
+      - {x: -58, y: 95}
+      - {x: -46, y: 102}
+      - {x: -46, y: 107}
+      - {x: -48, y: 111}
+    - - {x: -30, y: 118}
+      - {x: -39, y: 118}
+      - {x: -42, y: 112}
+      - {x: -44, y: 105}
+      - {x: -44, y: 100}
+      - {x: -40, y: 95}
+      - {x: -28, y: 95}
+      - {x: -14, y: 102}
+      - {x: -14, y: 111}
+      - {x: -15, y: 113}
+    - - {x: 10, y: 119}
+      - {x: -7, y: 119}
+      - {x: -12, y: 115}
+      - {x: -12, y: 98}
+      - {x: -5, y: 95}
+      - {x: 7, y: 95}
+      - {x: 15, y: 106}
+      - {x: 15, y: 110}
+      - {x: 14, y: 116}
+    - - {x: 27, y: 119}
+      - {x: 21, y: 117}
+      - {x: 20, y: 114}
+      - {x: 20, y: 102}
+      - {x: 25, y: 95}
+      - {x: 37, y: 95}
+      - {x: 41, y: 100}
+      - {x: 41, y: 111}
+      - {x: 36, y: 119}
+    - - {x: 56, y: 119}
+      - {x: 53, y: 114}
+      - {x: 52, y: 105}
+      - {x: 52, y: 101}
+      - {x: 59, y: 95}
+      - {x: 67, y: 95}
+      - {x: 71, y: 100}
+      - {x: 71, y: 117}
+      - {x: 66, y: 119}
+    - - {x: 88, y: 119}
+      - {x: 85, y: 114}
+      - {x: 84, y: 105}
+      - {x: 84, y: 101}
+      - {x: 88, y: 95}
+      - {x: 99, y: 95}
+      - {x: 104, y: 97}
+      - {x: 104, y: 117}
+      - {x: 97, y: 119}
+    - - {x: -167, y: 150}
+      - {x: -173, y: 141}
+      - {x: -173, y: 126}
+      - {x: -154, y: 126}
+      - {x: -145, y: 134}
+      - {x: -145, y: 150}
+    - - {x: -123, y: 150}
+      - {x: -134, y: 150}
+      - {x: -141, y: 142}
+      - {x: -141, y: 132}
+      - {x: -138, y: 126}
+      - {x: -129, y: 126}
+      - {x: -126, y: 127}
+      - {x: -116, y: 136}
+      - {x: -116, y: 139}
+    - - {x: -102, y: 150}
+      - {x: -109, y: 142}
+      - {x: -109, y: 132}
+      - {x: -106, y: 126}
+      - {x: -92, y: 126}
+      - {x: -89, y: 131}
+      - {x: -89, y: 146}
+      - {x: -91, y: 150}
+    - - {x: -72, y: 150}
+      - {x: -77, y: 141}
+      - {x: -77, y: 129}
+      - {x: -72, y: 126}
+      - {x: -60, y: 126}
+      - {x: -57, y: 131}
+      - {x: -57, y: 146}
+      - {x: -59, y: 150}
+    - - {x: -39, y: 150}
+      - {x: -44, y: 148}
+      - {x: -44, y: 132}
+      - {x: -36, y: 126}
+      - {x: -29, y: 126}
+      - {x: -25, y: 130}
+      - {x: -25, y: 145}
+      - {x: -26, y: 150}
+    - - {x: -198, y: 151}
+      - {x: -204, y: 143}
+      - {x: -204, y: 131}
+      - {x: -203, y: 127}
+      - {x: -186, y: 127}
+      - {x: -182, y: 129}
+      - {x: -175, y: 142}
+      - {x: -175, y: 146}
+      - {x: -176, y: 151}
+    - - {x: 11, y: 151}
+      - {x: -6, y: 151}
+      - {x: -11, y: 147}
+      - {x: -11, y: 130}
+      - {x: -4, y: 127}
+      - {x: 8, y: 127}
+      - {x: 16, y: 138}
+      - {x: 16, y: 142}
+      - {x: 15, y: 148}
+    - - {x: 28, y: 151}
+      - {x: 22, y: 149}
+      - {x: 21, y: 146}
+      - {x: 21, y: 134}
+      - {x: 26, y: 127}
+      - {x: 38, y: 127}
+      - {x: 42, y: 132}
+      - {x: 42, y: 143}
+      - {x: 37, y: 151}
+    - - {x: 57, y: 151}
+      - {x: 54, y: 146}
+      - {x: 53, y: 137}
+      - {x: 53, y: 133}
+      - {x: 60, y: 127}
+      - {x: 68, y: 127}
+      - {x: 72, y: 132}
+      - {x: 72, y: 149}
+      - {x: 67, y: 151}
+    - - {x: 89, y: 151}
+      - {x: 86, y: 146}
+      - {x: 85, y: 137}
+      - {x: 85, y: 133}
+      - {x: 89, y: 127}
+      - {x: 100, y: 127}
+      - {x: 105, y: 129}
+      - {x: 105, y: 149}
+      - {x: 98, y: 151}
+    - - {x: -201, y: 182}
+      - {x: -204, y: 173}
+      - {x: -204, y: 162}
+      - {x: -199, y: 159}
+      - {x: -189, y: 159}
+      - {x: -185, y: 164}
+      - {x: -185, y: 180}
+      - {x: -189, y: 182}
+    - - {x: -41, y: 183}
+      - {x: -45, y: 175}
+      - {x: -45, y: 162}
+      - {x: -42, y: 159}
+      - {x: -31, y: 159}
+      - {x: -24, y: 161}
+      - {x: -16, y: 176}
+      - {x: -16, y: 178}
+      - {x: -18, y: 183}
+    - - {x: 10, y: 183}
+      - {x: -7, y: 183}
+      - {x: -12, y: 179}
+      - {x: -12, y: 162}
+      - {x: -5, y: 159}
+      - {x: 7, y: 159}
+      - {x: 15, y: 170}
+      - {x: 15, y: 174}
+      - {x: 14, y: 180}
+    - - {x: 27, y: 183}
+      - {x: 21, y: 181}
+      - {x: 20, y: 178}
+      - {x: 20, y: 166}
+      - {x: 25, y: 159}
+      - {x: 37, y: 159}
+      - {x: 41, y: 164}
+      - {x: 41, y: 175}
+      - {x: 36, y: 183}
+    - - {x: 56, y: 183}
+      - {x: 53, y: 178}
+      - {x: 52, y: 169}
+      - {x: 52, y: 165}
+      - {x: 59, y: 159}
+      - {x: 67, y: 159}
+      - {x: 71, y: 164}
+      - {x: 71, y: 181}
+      - {x: 66, y: 183}
+    - - {x: 88, y: 183}
+      - {x: 85, y: 178}
+      - {x: 84, y: 169}
+      - {x: 84, y: 165}
+      - {x: 88, y: 159}
+      - {x: 99, y: 159}
+      - {x: 104, y: 161}
+      - {x: 104, y: 181}
+      - {x: 97, y: 183}
+    - - {x: -157, y: 183}
+      - {x: -169, y: 183}
+      - {x: -173, y: 174}
+      - {x: -173, y: 163}
+      - {x: -170, y: 160}
+      - {x: -146, y: 160}
+      - {x: -145, y: 163}
+      - {x: -145, y: 169}
+      - {x: -152, y: 181}
+    - - {x: -110, y: 178}
+      - {x: -115, y: 183}
+      - {x: -124, y: 185}
+      - {x: -136, y: 185}
+      - {x: -141, y: 177}
+      - {x: -141, y: 167}
+      - {x: -136, y: 160}
+      - {x: -127, y: 160}
+      - {x: -124, y: 161}
+      - {x: -123, y: 160}
+      - {x: -112, y: 160}
+      - {x: -111, y: 162}
+      - {x: -110, y: 166}
+    - - {x: -72, y: 185}
+      - {x: -77, y: 175}
+      - {x: -77, y: 167}
+      - {x: -71, y: 160}
+      - {x: -68, y: 160}
+      - {x: -60, y: 162}
+      - {x: -47, y: 173}
+      - {x: -47, y: 176}
+      - {x: -50, y: 185}
+    - - {x: -91, y: 186}
+      - {x: -104, y: 186}
+      - {x: -109, y: 178}
+      - {x: -109, y: 168}
+      - {x: -105, y: 161}
+      - {x: -97, y: 161}
+      - {x: -89, y: 165}
+      - {x: -78, y: 171}
+      - {x: -78, y: 182}
+    - - {x: -85, y: 165}
+      - {x: -83, y: 163}
+      - {x: -80, y: 164}
+      - {x: -79, y: 169}
+      - {x: -81, y: 171}
+      - {x: -84, y: 170}
+    - - {x: -103, y: 215}
+      - {x: -107, y: 213}
+      - {x: -107, y: 197}
+      - {x: -102, y: 191}
+      - {x: -92, y: 191}
+      - {x: -89, y: 194}
+      - {x: -89, y: 207}
+      - {x: -92, y: 215}
+    - - {x: 23, y: 215}
+      - {x: 21, y: 214}
+      - {x: 21, y: 193}
+      - {x: 27, y: 191}
+      - {x: 38, y: 191}
+      - {x: 39, y: 193}
+      - {x: 39, y: 207}
+      - {x: 37, y: 215}
+    - - {x: -74, y: 216}
+      - {x: -74, y: 195}
+      - {x: -71, y: 192}
+      - {x: -62, y: 192}
+      - {x: -58, y: 198}
+      - {x: -58, y: 213}
+      - {x: -63, y: 216}
+    - - {x: 1, y: 216}
+      - {x: -5, y: 216}
+      - {x: -10, y: 214}
+      - {x: -10, y: 197}
+      - {x: -7, y: 192}
+      - {x: 2, y: 192}
+      - {x: 6, y: 198}
+      - {x: 6, y: 211}
+    - - {x: -200, y: 216}
+      - {x: -205, y: 205}
+      - {x: -205, y: 197}
+      - {x: -200, y: 193}
+      - {x: -188, y: 193}
+      - {x: -183, y: 197}
+      - {x: -183, y: 214}
+      - {x: -190, y: 216}
+    - - {x: -134, y: 216}
+      - {x: -139, y: 210}
+      - {x: -141, y: 205}
+      - {x: -141, y: 194}
+      - {x: -137, y: 193}
+      - {x: -120, y: 193}
+      - {x: -119, y: 194}
+      - {x: -119, y: 210}
+      - {x: -123, y: 216}
+    - - {x: -37, y: 217}
+      - {x: -42, y: 215}
+      - {x: -42, y: 196}
+      - {x: -37, y: 193}
+      - {x: -29, y: 193}
+      - {x: -26, y: 199}
+      - {x: -26, y: 216}
+      - {x: -27, y: 217}
+    - - {x: -167, y: 217}
+      - {x: -173, y: 208}
+      - {x: -173, y: 196}
+      - {x: -168, y: 195}
+      - {x: -153, y: 195}
+      - {x: -151, y: 197}
+      - {x: -151, y: 207}
+      - {x: -156, y: 217}
+    - - {x: -200, y: 247}
+      - {x: -203, y: 242}
+      - {x: -204, y: 233}
+      - {x: -204, y: 229}
+      - {x: -200, y: 223}
+      - {x: -190, y: 223}
+      - {x: -184, y: 225}
+      - {x: -184, y: 245}
+      - {x: -191, y: 247}
+    - - {x: -170, y: 248}
+      - {x: -173, y: 244}
+      - {x: -173, y: 226}
+      - {x: -166, y: 223}
+      - {x: -153, y: 223}
+      - {x: -150, y: 229}
+      - {x: -150, y: 237}
+      - {x: -157, y: 248}
+    - - {x: -124, y: 248}
+      - {x: -133, y: 248}
+      - {x: -139, y: 246}
+      - {x: -141, y: 236}
+      - {x: -141, y: 229}
+      - {x: -133, y: 223}
+      - {x: -124, y: 223}
+      - {x: -118, y: 228}
+      - {x: -118, y: 237}
+      - {x: -119, y: 242}
+    - - {x: -94, y: 248}
+      - {x: -103, y: 248}
+      - {x: -106, y: 243}
+      - {x: -109, y: 233}
+      - {x: -109, y: 231}
+      - {x: -101, y: 223}
+      - {x: -92, y: 223}
+      - {x: -86, y: 229}
+      - {x: -86, y: 235}
+      - {x: -89, y: 246}
+    - - {x: -72, y: 247}
+      - {x: -76, y: 240}
+      - {x: -76, y: 226}
+      - {x: -70, y: 223}
+      - {x: -57, y: 223}
+      - {x: -56, y: 224}
+      - {x: -56, y: 239}
+      - {x: -61, y: 247}
+    - - {x: -40, y: 247}
+      - {x: -44, y: 240}
+      - {x: -44, y: 226}
+      - {x: -38, y: 223}
+      - {x: -25, y: 223}
+      - {x: -24, y: 224}
+      - {x: -24, y: 239}
+      - {x: -29, y: 247}
+    - - {x: -8, y: 247}
+      - {x: -12, y: 240}
+      - {x: -12, y: 226}
+      - {x: -6, y: 223}
+      - {x: 7, y: 223}
+      - {x: 8, y: 224}
+      - {x: 8, y: 239}
+      - {x: 3, y: 247}
+    - - {x: 24, y: 247}
+      - {x: 20, y: 240}
+      - {x: 20, y: 226}
+      - {x: 26, y: 223}
+      - {x: 39, y: 223}
+      - {x: 40, y: 224}
+      - {x: 40, y: 239}
+      - {x: 35, y: 247}
+    - - {x: 55, y: 247}
+      - {x: 52, y: 240}
+      - {x: 52, y: 225}
+      - {x: 59, y: 223}
+      - {x: 70, y: 223}
+      - {x: 72, y: 226}
+      - {x: 72, y: 239}
+      - {x: 67, y: 247}
+    - - {x: 86, y: 247}
+      - {x: 84, y: 238}
+      - {x: 84, y: 226}
+      - {x: 87, y: 223}
+      - {x: 98, y: 223}
+      - {x: 104, y: 225}
+      - {x: 104, y: 246}
+      - {x: 101, y: 247}
+    - - {x: 120, y: 247}
+      - {x: 117, y: 242}
+      - {x: 116, y: 233}
+      - {x: 116, y: 229}
+      - {x: 120, y: 223}
+      - {x: 131, y: 223}
+      - {x: 136, y: 225}
+      - {x: 136, y: 245}
+      - {x: 129, y: 247}
+    - - {x: 152, y: 247}
+      - {x: 149, y: 242}
+      - {x: 148, y: 233}
+      - {x: 148, y: 229}
+      - {x: 152, y: 223}
+      - {x: 163, y: 223}
+      - {x: 168, y: 225}
+      - {x: 168, y: 245}
+      - {x: 161, y: 247}
+    - - {x: 184, y: 247}
+      - {x: 181, y: 242}
+      - {x: 180, y: 233}
+      - {x: 180, y: 229}
+      - {x: 184, y: 223}
+      - {x: 195, y: 223}
+      - {x: 200, y: 225}
+      - {x: 200, y: 245}
+      - {x: 193, y: 247}
   spritePackingTag: 
   userData: 
   assetBundleName: 
